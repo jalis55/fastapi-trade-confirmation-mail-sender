@@ -8,6 +8,7 @@ dependencies = [
     "celery>=5.6.3",
     "duckdb>=1.5.5",
     "fastapi>=0.141.1",
+    "flower>=2.1.0",
     "pandas>=3.0.5",
     "redis>=8.1.0",
     "reportlab>=5.0.1",

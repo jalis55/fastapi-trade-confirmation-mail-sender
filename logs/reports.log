@@ -1,200 +1,1216 @@
-2026-09-03 20:06:25,040 - reports_logger - INFO - Generated report for client 'F0001' on 2026-08-31
-2026-09-03 20:06:28,074 - reports_logger - INFO - Generated report for client 'F0002' on 2026-08-31
-2026-09-03 20:06:31,109 - reports_logger - INFO - Generated report for client 'F0003' on 2026-08-31
-2026-09-03 20:06:34,141 - reports_logger - INFO - Generated report for client 'F0004' on 2026-08-31
-2026-09-03 20:06:37,179 - reports_logger - INFO - Generated report for client 'F0005' on 2026-08-31
-2026-09-03 20:06:40,213 - reports_logger - INFO - Generated report for client 'F0006' on 2026-08-31
-2026-09-03 20:06:43,245 - reports_logger - INFO - Generated report for client 'F0007' on 2026-08-31
-2026-09-03 20:06:46,307 - reports_logger - INFO - Generated report for client 'F0008' on 2026-08-31
-2026-09-03 20:06:49,368 - reports_logger - INFO - Generated report for client 'F0009' on 2026-08-31
-2026-09-03 20:06:52,399 - reports_logger - INFO - Generated report for client 'F0010' on 2026-08-31
-2026-09-03 20:06:55,455 - reports_logger - INFO - Generated report for client 'F0011' on 2026-08-31
-2026-09-03 20:06:58,490 - reports_logger - INFO - Generated report for client 'F0012' on 2026-08-31
-2026-09-03 20:07:01,547 - reports_logger - INFO - Generated report for client 'F0013' on 2026-08-31
-2026-09-03 20:07:04,618 - reports_logger - INFO - Generated report for client 'F0014' on 2026-08-31
-2026-09-03 20:07:07,658 - reports_logger - INFO - Generated report for client 'F0015' on 2026-08-31
-2026-09-03 20:07:10,711 - reports_logger - INFO - Generated report for client 'F0016' on 2026-08-31
-2026-09-03 20:07:13,760 - reports_logger - INFO - Generated report for client 'F0017' on 2026-08-31
-2026-09-03 20:07:16,826 - reports_logger - INFO - Generated report for client 'F0018' on 2026-08-31
-2026-09-03 20:07:19,885 - reports_logger - INFO - Generated report for client 'F0019' on 2026-08-31
-2026-09-03 20:07:22,942 - reports_logger - INFO - Generated report for client 'F0020' on 2026-08-31
-2026-09-03 20:07:25,979 - reports_logger - INFO - Generated report for client 'F0021' on 2026-08-31
-2026-09-03 20:07:29,036 - reports_logger - INFO - Generated report for client 'F0022' on 2026-08-31
-2026-09-03 20:07:32,070 - reports_logger - INFO - Generated report for client 'F0023' on 2026-08-31
-2026-09-03 20:07:35,106 - reports_logger - INFO - Generated report for client 'F0024' on 2026-08-31
-2026-09-03 20:07:38,145 - reports_logger - INFO - Generated report for client 'F0025' on 2026-08-31
-2026-09-03 20:07:41,205 - reports_logger - INFO - Generated report for client 'F0026' on 2026-08-31
-2026-09-03 20:07:44,239 - reports_logger - INFO - Generated report for client 'F0027' on 2026-08-31
-2026-09-03 20:07:47,273 - reports_logger - INFO - Generated report for client 'F0028' on 2026-08-31
-2026-09-03 20:07:50,315 - reports_logger - INFO - Generated report for client 'F0029' on 2026-08-31
-2026-09-03 20:07:53,372 - reports_logger - INFO - Generated report for client 'F0030' on 2026-08-31
-2026-09-03 20:07:56,408 - reports_logger - INFO - Generated report for client 'F0031' on 2026-08-31
-2026-09-03 20:07:59,439 - reports_logger - INFO - Generated report for client 'F0032' on 2026-08-31
-2026-09-03 20:08:02,476 - reports_logger - INFO - Generated report for client 'F0033' on 2026-08-31
-2026-09-03 20:08:05,533 - reports_logger - INFO - Generated report for client 'F0034' on 2026-08-31
-2026-09-03 20:08:08,565 - reports_logger - INFO - Generated report for client 'F0035' on 2026-08-31
-2026-09-03 20:08:11,600 - reports_logger - INFO - Generated report for client 'F0036' on 2026-08-31
-2026-09-03 20:08:14,661 - reports_logger - INFO - Generated report for client 'F0037' on 2026-08-31
-2026-09-03 20:08:17,702 - reports_logger - INFO - Generated report for client 'F0038' on 2026-08-31
-2026-09-03 20:08:20,734 - reports_logger - INFO - Generated report for client 'F0039' on 2026-08-31
-2026-09-03 20:08:23,771 - reports_logger - INFO - Generated report for client 'F0040' on 2026-08-31
-2026-09-03 20:08:26,824 - reports_logger - INFO - Generated report for client 'F0041' on 2026-08-31
-2026-09-03 20:08:29,860 - reports_logger - INFO - Generated report for client 'F0042' on 2026-08-31
-2026-09-03 20:08:32,908 - reports_logger - INFO - Generated report for client 'F0043' on 2026-08-31
-2026-09-03 20:08:35,946 - reports_logger - INFO - Generated report for client 'F0044' on 2026-08-31
-2026-09-03 20:08:38,978 - reports_logger - INFO - Generated report for client 'F0045' on 2026-08-31
-2026-09-03 20:08:42,019 - reports_logger - INFO - Generated report for client 'F0046' on 2026-08-31
-2026-09-03 20:08:45,049 - reports_logger - INFO - Generated report for client 'F0047' on 2026-08-31
-2026-09-03 20:08:48,090 - reports_logger - INFO - Generated report for client 'F0048' on 2026-08-31
-2026-09-03 20:08:51,124 - reports_logger - INFO - Generated report for client 'F0049' on 2026-08-31
-2026-09-03 20:08:54,163 - reports_logger - INFO - Generated report for client 'F0050' on 2026-08-31
-2026-09-03 20:08:57,220 - reports_logger - INFO - Generated report for client 'F0051' on 2026-08-31
-2026-09-03 20:09:00,274 - reports_logger - INFO - Generated report for client 'F0052' on 2026-08-31
-2026-09-03 20:09:03,314 - reports_logger - INFO - Generated report for client 'F0053' on 2026-08-31
-2026-09-03 20:09:06,355 - reports_logger - INFO - Generated report for client 'F0054' on 2026-08-31
-2026-09-03 20:09:09,386 - reports_logger - INFO - Generated report for client 'F0055' on 2026-08-31
-2026-09-03 20:09:12,451 - reports_logger - INFO - Generated report for client 'F0056' on 2026-08-31
-2026-09-03 20:09:15,493 - reports_logger - INFO - Generated report for client 'F0057' on 2026-08-31
-2026-09-03 20:09:18,542 - reports_logger - INFO - Generated report for client 'F0058' on 2026-08-31
-2026-09-03 20:09:21,574 - reports_logger - INFO - Generated report for client 'F0059' on 2026-08-31
-2026-09-03 20:09:24,609 - reports_logger - INFO - Generated report for client 'F0060' on 2026-08-31
-2026-09-03 20:09:27,643 - reports_logger - INFO - Generated report for client 'F0061' on 2026-08-31
-2026-09-03 20:09:30,702 - reports_logger - INFO - Generated report for client 'F0062' on 2026-08-31
-2026-09-03 20:09:33,741 - reports_logger - INFO - Generated report for client 'F0063' on 2026-08-31
-2026-09-03 20:09:36,779 - reports_logger - INFO - Generated report for client 'F0064' on 2026-08-31
-2026-09-03 20:09:39,814 - reports_logger - INFO - Generated report for client 'F0065' on 2026-08-31
-2026-09-03 20:09:42,850 - reports_logger - INFO - Generated report for client 'F0066' on 2026-08-31
-2026-09-03 20:09:45,888 - reports_logger - INFO - Generated report for client 'F0067' on 2026-08-31
-2026-09-03 20:09:48,922 - reports_logger - INFO - Generated report for client 'F0068' on 2026-08-31
-2026-09-03 20:09:51,957 - reports_logger - INFO - Generated report for client 'F0069' on 2026-08-31
-2026-09-03 20:09:54,996 - reports_logger - INFO - Generated report for client 'F0070' on 2026-08-31
-2026-09-03 20:09:58,055 - reports_logger - INFO - Generated report for client 'F0071' on 2026-08-31
-2026-09-03 20:10:01,117 - reports_logger - INFO - Generated report for client 'F0072' on 2026-08-31
-2026-09-03 20:10:04,148 - reports_logger - INFO - Generated report for client 'F0073' on 2026-08-31
-2026-09-03 20:10:07,181 - reports_logger - INFO - Generated report for client 'F0074' on 2026-08-31
-2026-09-03 20:10:10,217 - reports_logger - INFO - Generated report for client 'F0075' on 2026-08-31
-2026-09-03 20:10:13,257 - reports_logger - INFO - Generated report for client 'F0076' on 2026-08-31
-2026-09-03 20:10:16,292 - reports_logger - INFO - Generated report for client 'F0077' on 2026-08-31
-2026-09-03 20:10:19,322 - reports_logger - INFO - Generated report for client 'F0078' on 2026-08-31
-2026-09-03 20:10:22,360 - reports_logger - INFO - Generated report for client 'F0079' on 2026-08-31
-2026-09-03 20:10:25,392 - reports_logger - INFO - Generated report for client 'F0080' on 2026-08-31
-2026-09-03 20:10:28,441 - reports_logger - INFO - Generated report for client 'F0081' on 2026-08-31
-2026-09-03 20:10:31,484 - reports_logger - INFO - Generated report for client 'F0082' on 2026-08-31
-2026-09-03 20:10:34,542 - reports_logger - INFO - Generated report for client 'F0083' on 2026-08-31
-2026-09-03 20:10:37,595 - reports_logger - INFO - Generated report for client 'F0084' on 2026-08-31
-2026-09-03 20:10:40,647 - reports_logger - INFO - Generated report for client 'F0085' on 2026-08-31
-2026-09-03 20:10:43,684 - reports_logger - INFO - Generated report for client 'F0086' on 2026-08-31
-2026-09-03 20:10:46,722 - reports_logger - INFO - Generated report for client 'F0087' on 2026-08-31
-2026-09-03 20:10:49,758 - reports_logger - INFO - Generated report for client 'F0088' on 2026-08-31
-2026-09-03 20:10:52,820 - reports_logger - INFO - Generated report for client 'F0089' on 2026-08-31
-2026-09-03 20:10:55,860 - reports_logger - INFO - Generated report for client 'F0090' on 2026-08-31
-2026-09-03 20:10:58,906 - reports_logger - INFO - Generated report for client 'F0091' on 2026-08-31
-2026-09-03 20:11:01,940 - reports_logger - INFO - Generated report for client 'F0092' on 2026-08-31
-2026-09-03 20:11:04,970 - reports_logger - INFO - Generated report for client 'F0093' on 2026-08-31
-2026-09-03 20:11:08,011 - reports_logger - INFO - Generated report for client 'F0094' on 2026-08-31
-2026-09-03 20:11:11,072 - reports_logger - INFO - Generated report for client 'F0095' on 2026-08-31
-2026-09-03 20:11:14,109 - reports_logger - INFO - Generated report for client 'F0096' on 2026-08-31
-2026-09-03 20:11:17,142 - reports_logger - INFO - Generated report for client 'F0097' on 2026-08-31
-2026-09-03 20:11:20,176 - reports_logger - INFO - Generated report for client 'F0098' on 2026-08-31
-2026-09-03 20:11:23,212 - reports_logger - INFO - Generated report for client 'F0099' on 2026-08-31
-2026-09-03 20:11:26,250 - reports_logger - INFO - Generated report for client 'F0100' on 2026-08-31
-2026-09-03 20:26:40,469 - reports_logger - INFO - Generated report for client 'F0001' on 2026-08-31
-2026-09-03 20:26:43,509 - reports_logger - INFO - Generated report for client 'F0002' on 2026-08-31
-2026-09-03 20:26:46,563 - reports_logger - INFO - Generated report for client 'F0003' on 2026-08-31
-2026-09-03 20:26:49,591 - reports_logger - INFO - Generated report for client 'F0004' on 2026-08-31
-2026-09-03 20:26:52,634 - reports_logger - INFO - Generated report for client 'F0005' on 2026-08-31
-2026-09-03 20:26:55,684 - reports_logger - INFO - Generated report for client 'F0006' on 2026-08-31
-2026-09-03 20:26:58,728 - reports_logger - INFO - Generated report for client 'F0007' on 2026-08-31
-2026-09-03 20:27:01,778 - reports_logger - INFO - Generated report for client 'F0008' on 2026-08-31
-2026-09-03 20:27:04,826 - reports_logger - INFO - Generated report for client 'F0009' on 2026-08-31
-2026-09-03 20:27:07,870 - reports_logger - INFO - Generated report for client 'F0010' on 2026-08-31
-2026-09-03 20:27:10,916 - reports_logger - INFO - Generated report for client 'F0011' on 2026-08-31
-2026-09-03 20:27:13,970 - reports_logger - INFO - Generated report for client 'F0012' on 2026-08-31
-2026-09-03 20:27:17,014 - reports_logger - INFO - Generated report for client 'F0013' on 2026-08-31
-2026-09-03 20:27:20,056 - reports_logger - INFO - Generated report for client 'F0014' on 2026-08-31
-2026-09-03 20:27:23,091 - reports_logger - INFO - Generated report for client 'F0015' on 2026-08-31
-2026-09-03 20:27:26,134 - reports_logger - INFO - Generated report for client 'F0016' on 2026-08-31
-2026-09-03 20:27:29,198 - reports_logger - INFO - Generated report for client 'F0017' on 2026-08-31
-2026-09-03 20:27:32,249 - reports_logger - INFO - Generated report for client 'F0018' on 2026-08-31
-2026-09-03 20:27:35,306 - reports_logger - INFO - Generated report for client 'F0019' on 2026-08-31
-2026-09-03 20:27:38,358 - reports_logger - INFO - Generated report for client 'F0020' on 2026-08-31
-2026-09-03 20:27:41,403 - reports_logger - INFO - Generated report for client 'F0021' on 2026-08-31
-2026-09-03 20:27:44,462 - reports_logger - INFO - Generated report for client 'F0022' on 2026-08-31
-2026-09-03 20:27:47,508 - reports_logger - INFO - Generated report for client 'F0023' on 2026-08-31
-2026-09-03 20:27:50,546 - reports_logger - INFO - Generated report for client 'F0024' on 2026-08-31
-2026-09-03 20:27:53,582 - reports_logger - INFO - Generated report for client 'F0025' on 2026-08-31
-2026-09-03 20:27:56,632 - reports_logger - INFO - Generated report for client 'F0026' on 2026-08-31
-2026-09-03 20:27:59,817 - reports_logger - INFO - Generated report for client 'F0027' on 2026-08-31
-2026-09-03 20:28:03,073 - reports_logger - INFO - Generated report for client 'F0028' on 2026-08-31
-2026-09-03 20:28:06,224 - reports_logger - INFO - Generated report for client 'F0029' on 2026-08-31
-2026-09-03 20:28:09,276 - reports_logger - INFO - Generated report for client 'F0030' on 2026-08-31
-2026-09-03 20:28:12,369 - reports_logger - INFO - Generated report for client 'F0031' on 2026-08-31
-2026-09-03 20:28:15,451 - reports_logger - INFO - Generated report for client 'F0032' on 2026-08-31
-2026-09-03 20:28:18,532 - reports_logger - INFO - Generated report for client 'F0033' on 2026-08-31
-2026-09-03 20:28:21,613 - reports_logger - INFO - Generated report for client 'F0034' on 2026-08-31
-2026-09-03 20:28:24,662 - reports_logger - INFO - Generated report for client 'F0035' on 2026-08-31
-2026-09-03 20:28:27,716 - reports_logger - INFO - Generated report for client 'F0036' on 2026-08-31
-2026-09-03 20:28:30,787 - reports_logger - INFO - Generated report for client 'F0037' on 2026-08-31
-2026-09-03 20:28:33,859 - reports_logger - INFO - Generated report for client 'F0038' on 2026-08-31
-2026-09-03 20:28:36,925 - reports_logger - INFO - Generated report for client 'F0039' on 2026-08-31
-2026-09-03 20:28:39,998 - reports_logger - INFO - Generated report for client 'F0040' on 2026-08-31
-2026-09-03 20:28:43,079 - reports_logger - INFO - Generated report for client 'F0041' on 2026-08-31
-2026-09-03 20:28:46,127 - reports_logger - INFO - Generated report for client 'F0042' on 2026-08-31
-2026-09-03 20:28:49,187 - reports_logger - INFO - Generated report for client 'F0043' on 2026-08-31
-2026-09-03 20:28:52,266 - reports_logger - INFO - Generated report for client 'F0044' on 2026-08-31
-2026-09-03 20:28:55,310 - reports_logger - INFO - Generated report for client 'F0045' on 2026-08-31
-2026-09-03 20:28:58,374 - reports_logger - INFO - Generated report for client 'F0046' on 2026-08-31
-2026-09-03 20:29:01,440 - reports_logger - INFO - Generated report for client 'F0047' on 2026-08-31
-2026-09-03 20:29:04,522 - reports_logger - INFO - Generated report for client 'F0048' on 2026-08-31
-2026-09-03 20:29:07,593 - reports_logger - INFO - Generated report for client 'F0049' on 2026-08-31
-2026-09-03 20:29:10,636 - reports_logger - INFO - Generated report for client 'F0050' on 2026-08-31
-2026-09-03 20:29:13,685 - reports_logger - INFO - Generated report for client 'F0051' on 2026-08-31
-2026-09-03 20:29:16,752 - reports_logger - INFO - Generated report for client 'F0052' on 2026-08-31
-2026-09-03 20:29:19,829 - reports_logger - INFO - Generated report for client 'F0053' on 2026-08-31
-2026-09-03 20:29:22,892 - reports_logger - INFO - Generated report for client 'F0054' on 2026-08-31
-2026-09-03 20:29:25,949 - reports_logger - INFO - Generated report for client 'F0055' on 2026-08-31
-2026-09-03 20:29:29,049 - reports_logger - INFO - Generated report for client 'F0056' on 2026-08-31
-2026-09-03 20:29:32,113 - reports_logger - INFO - Generated report for client 'F0057' on 2026-08-31
-2026-09-03 20:29:35,193 - reports_logger - INFO - Generated report for client 'F0058' on 2026-08-31
-2026-09-03 20:29:38,243 - reports_logger - INFO - Generated report for client 'F0059' on 2026-08-31
-2026-09-03 20:29:41,309 - reports_logger - INFO - Generated report for client 'F0060' on 2026-08-31
-2026-09-03 20:29:44,374 - reports_logger - INFO - Generated report for client 'F0061' on 2026-08-31
-2026-09-03 20:29:47,424 - reports_logger - INFO - Generated report for client 'F0062' on 2026-08-31
-2026-09-03 20:29:50,493 - reports_logger - INFO - Generated report for client 'F0063' on 2026-08-31
-2026-09-03 20:29:53,585 - reports_logger - INFO - Generated report for client 'F0064' on 2026-08-31
-2026-09-03 20:29:56,632 - reports_logger - INFO - Generated report for client 'F0065' on 2026-08-31
-2026-09-03 20:29:59,705 - reports_logger - INFO - Generated report for client 'F0066' on 2026-08-31
-2026-09-03 20:30:02,787 - reports_logger - INFO - Generated report for client 'F0067' on 2026-08-31
-2026-09-03 20:30:05,849 - reports_logger - INFO - Generated report for client 'F0068' on 2026-08-31
-2026-09-03 20:30:08,916 - reports_logger - INFO - Generated report for client 'F0069' on 2026-08-31
-2026-09-03 20:30:11,993 - reports_logger - INFO - Generated report for client 'F0070' on 2026-08-31
-2026-09-03 20:30:15,067 - reports_logger - INFO - Generated report for client 'F0071' on 2026-08-31
-2026-09-03 20:30:18,161 - reports_logger - INFO - Generated report for client 'F0072' on 2026-08-31
-2026-09-03 20:30:21,225 - reports_logger - INFO - Generated report for client 'F0073' on 2026-08-31
-2026-09-03 20:30:24,276 - reports_logger - INFO - Generated report for client 'F0074' on 2026-08-31
-2026-09-03 20:30:27,346 - reports_logger - INFO - Generated report for client 'F0075' on 2026-08-31
-2026-09-03 20:30:30,442 - reports_logger - INFO - Generated report for client 'F0076' on 2026-08-31
-2026-09-03 20:30:33,519 - reports_logger - INFO - Generated report for client 'F0077' on 2026-08-31
-2026-09-03 20:30:36,583 - reports_logger - INFO - Generated report for client 'F0078' on 2026-08-31
-2026-09-03 20:30:39,637 - reports_logger - INFO - Generated report for client 'F0079' on 2026-08-31
-2026-09-03 20:30:42,732 - reports_logger - INFO - Generated report for client 'F0080' on 2026-08-31
-2026-09-03 20:30:45,798 - reports_logger - INFO - Generated report for client 'F0081' on 2026-08-31
-2026-09-03 20:30:48,868 - reports_logger - INFO - Generated report for client 'F0082' on 2026-08-31
-2026-09-03 20:30:51,938 - reports_logger - INFO - Generated report for client 'F0083' on 2026-08-31
-2026-09-03 20:30:55,001 - reports_logger - INFO - Generated report for client 'F0084' on 2026-08-31
-2026-09-03 20:30:58,113 - reports_logger - INFO - Generated report for client 'F0085' on 2026-08-31
-2026-09-03 20:31:01,166 - reports_logger - INFO - Generated report for client 'F0086' on 2026-08-31
-2026-09-03 20:31:04,240 - reports_logger - INFO - Generated report for client 'F0087' on 2026-08-31
-2026-09-03 20:31:07,301 - reports_logger - INFO - Generated report for client 'F0088' on 2026-08-31
-2026-09-03 20:31:10,399 - reports_logger - INFO - Generated report for client 'F0089' on 2026-08-31
-2026-09-03 20:31:13,479 - reports_logger - INFO - Generated report for client 'F0090' on 2026-08-31
-2026-09-03 20:31:16,543 - reports_logger - INFO - Generated report for client 'F0091' on 2026-08-31
-2026-09-03 20:31:19,717 - reports_logger - INFO - Generated report for client 'F0092' on 2026-08-31
-2026-09-03 20:31:22,785 - reports_logger - INFO - Generated report for client 'F0093' on 2026-08-31
-2026-09-03 20:31:25,857 - reports_logger - INFO - Generated report for client 'F0094' on 2026-08-31
-2026-09-03 20:31:28,936 - reports_logger - INFO - Generated report for client 'F0095' on 2026-08-31
-2026-09-03 20:31:32,009 - reports_logger - INFO - Generated report for client 'F0096' on 2026-08-31
-2026-09-03 20:31:35,101 - reports_logger - INFO - Generated report for client 'F0097' on 2026-08-31
-2026-09-03 20:31:38,188 - reports_logger - INFO - Generated report for client 'F0098' on 2026-08-31
-2026-09-03 20:31:41,270 - reports_logger - INFO - Generated report for client 'F0099' on 2026-08-31
-2026-09-03 20:31:44,345 - reports_logger - INFO - Generated report for client 'F0100' on 2026-08-31
+2026-09-03 23:29:45,140 - reports_logger - ERROR - Failed for client 'F0001': IO Error: Cannot open file "C:\Users\jalis\Desktop\terade_conf\data\trades_db.duckdb": The process cannot access the file because it is being used by another process.
+
+File is already open in 
+C:\python3\python.exe (PID 2372)
+2026-09-03 23:29:45,328 - reports_logger - ERROR - Failed for client 'F0008': IO Error: Cannot open file "C:\Users\jalis\Desktop\terade_conf\data\trades_db.duckdb": The process cannot access the file because it is being used by another process.
+
+File is already open in 
+C:\python3\python.exe (PID 3004)
+C:\python3\python.exe (PID 2372)
+2026-09-03 23:29:45,347 - reports_logger - ERROR - Failed for client 'F0004': IO Error: Cannot open file "C:\Users\jalis\Desktop\terade_conf\data\trades_db.duckdb": The process cannot access the file because it is being used by another process.
+
+File is already open in 
+C:\python3\python.exe (PID 3004)
+C:\python3\python.exe (PID 2372)
+2026-09-03 23:29:45,382 - reports_logger - ERROR - Failed for client 'F0002': IO Error: Cannot open file "C:\Users\jalis\Desktop\terade_conf\data\trades_db.duckdb": The process cannot access the file because it is being used by another process.
+
+File is already open in 
+C:\python3\python.exe (PID 3004)
+C:\python3\python.exe (PID 2372)
+2026-09-03 23:29:45,383 - reports_logger - ERROR - Failed for client 'F0005': IO Error: Cannot open file "C:\Users\jalis\Desktop\terade_conf\data\trades_db.duckdb": The process cannot access the file because it is being used by another process.
+
+File is already open in 
+C:\python3\python.exe (PID 3004)
+C:\python3\python.exe (PID 2372)
+2026-09-03 23:29:45,394 - reports_logger - ERROR - Failed for client 'F0007': IO Error: Cannot open file "C:\Users\jalis\Desktop\terade_conf\data\trades_db.duckdb": The process cannot access the file because it is being used by another process.
+
+File is already open in 
+C:\python3\python.exe (PID 3004)
+C:\python3\python.exe (PID 2372)
+2026-09-03 23:29:45,550 - reports_logger - ERROR - Failed for client 'F0006': IO Error: Cannot open file "C:\Users\jalis\Desktop\terade_conf\data\trades_db.duckdb": The process cannot access the file because it is being used by another process.
+
+File is already open in 
+C:\python3\python.exe (PID 3004)
+C:\python3\python.exe (PID 2372)
+2026-09-03 23:29:45,649 - reports_logger - ERROR - Failed for client 'F0003': IO Error: Cannot open file "C:\Users\jalis\Desktop\terade_conf\data\trades_db.duckdb": The process cannot access the file because it is being used by another process.
+
+File is already open in 
+C:\python3\python.exe (PID 3004)
+C:\python3\python.exe (PID 2372)
+2026-09-03 23:29:45,738 - reports_logger - ERROR - Failed for client 'F0010': IO Error: Cannot open file "C:\Users\jalis\Desktop\terade_conf\data\trades_db.duckdb": The process cannot access the file because it is being used by another process.
+
+2026-09-03 23:29:45,750 - reports_logger - ERROR - Failed for client 'F0011': IO Error: Cannot open file "C:\Users\jalis\Desktop\terade_conf\data\trades_db.duckdb": The process cannot access the file because it is being used by another process.
+
+File is already open in 
+C:\python3\python.exe (PID 3004)
+C:\python3\python.exe (PID 2372)
+2026-09-03 23:29:45,751 - reports_logger - ERROR - Failed for client 'F0013': IO Error: Cannot open file "C:\Users\jalis\Desktop\terade_conf\data\trades_db.duckdb": The process cannot access the file because it is being used by another process.
+
+File is already open in 
+C:\python3\python.exe (PID 3004)
+C:\python3\python.exe (PID 2372)
+2026-09-03 23:29:45,753 - reports_logger - ERROR - Failed for client 'F0012': IO Error: Cannot open file "C:\Users\jalis\Desktop\terade_conf\data\trades_db.duckdb": The process cannot access the file because it is being used by another process.
+
+File is already open in 
+C:\python3\python.exe (PID 3004)
+C:\python3\python.exe (PID 2372)
+2026-09-03 23:29:45,764 - reports_logger - ERROR - Failed for client 'F0014': IO Error: Cannot open file "C:\Users\jalis\Desktop\terade_conf\data\trades_db.duckdb": The process cannot access the file because it is being used by another process.
+
+File is already open in 
+C:\python3\python.exe (PID 3004)
+C:\python3\python.exe (PID 2372)
+2026-09-03 23:29:45,889 - reports_logger - ERROR - Failed for client 'F0016': IO Error: Cannot open file "C:\Users\jalis\Desktop\terade_conf\data\trades_db.duckdb": The process cannot access the file because it is being used by another process.
+
+2026-09-03 23:29:45,916 - reports_logger - ERROR - Failed for client 'F0009': IO Error: Cannot open file "C:\Users\jalis\Desktop\terade_conf\data\trades_db.duckdb": The process cannot access the file because it is being used by another process.
+
+File is already open in 
+C:\python3\python.exe (PID 3004)
+C:\python3\python.exe (PID 2372)
+2026-09-03 23:29:45,937 - reports_logger - ERROR - Failed for client 'F0015': IO Error: Cannot open file "C:\Users\jalis\Desktop\terade_conf\data\trades_db.duckdb": The process cannot access the file because it is being used by another process.
+
+File is already open in 
+C:\python3\python.exe (PID 3004)
+C:\python3\python.exe (PID 2372)
+2026-09-03 23:29:46,070 - reports_logger - ERROR - Failed for client 'F0018': IO Error: Cannot open file "C:\Users\jalis\Desktop\terade_conf\data\trades_db.duckdb": The process cannot access the file because it is being used by another process.
+
+2026-09-03 23:29:46,079 - reports_logger - ERROR - Failed for client 'F0020': IO Error: Cannot open file "C:\Users\jalis\Desktop\terade_conf\data\trades_db.duckdb": The process cannot access the file because it is being used by another process.
+
+File is already open in 
+C:\python3\python.exe (PID 3004)
+C:\python3\python.exe (PID 2372)
+2026-09-03 23:29:46,080 - reports_logger - ERROR - Failed for client 'F0021': IO Error: Cannot open file "C:\Users\jalis\Desktop\terade_conf\data\trades_db.duckdb": The process cannot access the file because it is being used by another process.
+
+File is already open in 
+C:\python3\python.exe (PID 3004)
+C:\python3\python.exe (PID 2372)
+2026-09-03 23:29:46,092 - reports_logger - ERROR - Failed for client 'F0019': IO Error: Cannot open file "C:\Users\jalis\Desktop\terade_conf\data\trades_db.duckdb": The process cannot access the file because it is being used by another process.
+
+File is already open in 
+C:\python3\python.exe (PID 3004)
+C:\python3\python.exe (PID 2372)
+2026-09-03 23:29:46,093 - reports_logger - ERROR - Failed for client 'F0017': IO Error: Cannot open file "C:\Users\jalis\Desktop\terade_conf\data\trades_db.duckdb": The process cannot access the file because it is being used by another process.
+
+File is already open in 
+C:\python3\python.exe (PID 3004)
+C:\python3\python.exe (PID 2372)
+2026-09-03 23:29:46,250 - reports_logger - ERROR - Failed for client 'F0024': IO Error: Cannot open file "C:\Users\jalis\Desktop\terade_conf\data\trades_db.duckdb": The process cannot access the file because it is being used by another process.
+
+File is already open in 
+C:\python3\python.exe (PID 3004)
+C:\python3\python.exe (PID 2372)
+2026-09-03 23:29:46,255 - reports_logger - ERROR - Failed for client 'F0022': IO Error: Cannot open file "C:\Users\jalis\Desktop\terade_conf\data\trades_db.duckdb": The process cannot access the file because it is being used by another process.
+
+File is already open in 
+C:\python3\python.exe (PID 3004)
+C:\python3\python.exe (PID 2372)
+2026-09-03 23:29:46,256 - reports_logger - ERROR - Failed for client 'F0023': IO Error: Cannot open file "C:\Users\jalis\Desktop\terade_conf\data\trades_db.duckdb": The process cannot access the file because it is being used by another process.
+
+File is already open in 
+C:\python3\python.exe (PID 3004)
+C:\python3\python.exe (PID 2372)
+2026-09-03 23:29:46,454 - reports_logger - ERROR - Failed for client 'F0025': IO Error: Cannot open file "C:\Users\jalis\Desktop\terade_conf\data\trades_db.duckdb": The process cannot access the file because it is being used by another process.
+
+File is already open in 
+C:\python3\python.exe (PID 3004)
+C:\python3\python.exe (PID 2372)
+2026-09-03 23:29:46,457 - reports_logger - ERROR - Failed for client 'F0026': IO Error: Cannot open file "C:\Users\jalis\Desktop\terade_conf\data\trades_db.duckdb": The process cannot access the file because it is being used by another process.
+
+File is already open in 
+C:\python3\python.exe (PID 3004)
+C:\python3\python.exe (PID 2372)
+2026-09-03 23:29:46,462 - reports_logger - ERROR - Failed for client 'F0027': IO Error: Cannot open file "C:\Users\jalis\Desktop\terade_conf\data\trades_db.duckdb": The process cannot access the file because it is being used by another process.
+
+2026-09-03 23:29:46,469 - reports_logger - ERROR - Failed for client 'F0029': IO Error: Cannot open file "C:\Users\jalis\Desktop\terade_conf\data\trades_db.duckdb": The process cannot access the file because it is being used by another process.
+
+File is already open in 
+C:\python3\python.exe (PID 3004)
+C:\python3\python.exe (PID 2372)
+2026-09-03 23:29:46,474 - reports_logger - ERROR - Failed for client 'F0028': IO Error: Cannot open file "C:\Users\jalis\Desktop\terade_conf\data\trades_db.duckdb": The process cannot access the file because it is being used by another process.
+
+File is already open in 
+C:\python3\python.exe (PID 3004)
+C:\python3\python.exe (PID 2372)
+2026-09-03 23:29:46,634 - reports_logger - ERROR - Failed for client 'F0032': IO Error: Cannot open file "C:\Users\jalis\Desktop\terade_conf\data\trades_db.duckdb": The process cannot access the file because it is being used by another process.
+
+File is already open in 
+C:\python3\python.exe (PID 3004)
+C:\python3\python.exe (PID 2372)
+2026-09-03 23:29:46,650 - reports_logger - ERROR - Failed for client 'F0031': IO Error: Cannot open file "C:\Users\jalis\Desktop\terade_conf\data\trades_db.duckdb": The process cannot access the file because it is being used by another process.
+
+File is already open in 
+C:\python3\python.exe (PID 3004)
+C:\python3\python.exe (PID 2372)
+2026-09-03 23:29:46,676 - reports_logger - ERROR - Failed for client 'F0030': IO Error: Cannot open file "C:\Users\jalis\Desktop\terade_conf\data\trades_db.duckdb": The process cannot access the file because it is being used by another process.
+
+File is already open in 
+C:\python3\python.exe (PID 3004)
+C:\python3\python.exe (PID 2372)
+2026-09-03 23:29:46,805 - reports_logger - ERROR - Failed for client 'F0033': IO Error: Cannot open file "C:\Users\jalis\Desktop\terade_conf\data\trades_db.duckdb": The process cannot access the file because it is being used by another process.
+
+File is already open in 
+C:\python3\python.exe (PID 3004)
+C:\python3\python.exe (PID 2372)
+2026-09-03 23:29:46,807 - reports_logger - ERROR - Failed for client 'F0034': IO Error: Cannot open file "C:\Users\jalis\Desktop\terade_conf\data\trades_db.duckdb": The process cannot access the file because it is being used by another process.
+
+File is already open in 
+C:\python3\python.exe (PID 3004)
+C:\python3\python.exe (PID 2372)
+2026-09-03 23:29:46,819 - reports_logger - ERROR - Failed for client 'F0036': IO Error: Cannot open file "C:\Users\jalis\Desktop\terade_conf\data\trades_db.duckdb": The process cannot access the file because it is being used by another process.
+
+File is already open in 
+C:\python3\python.exe (PID 3004)
+C:\python3\python.exe (PID 2372)
+2026-09-03 23:29:46,819 - reports_logger - ERROR - Failed for client 'F0035': IO Error: Cannot open file "C:\Users\jalis\Desktop\terade_conf\data\trades_db.duckdb": The process cannot access the file because it is being used by another process.
+
+2026-09-03 23:29:46,828 - reports_logger - ERROR - Failed for client 'F0037': IO Error: Cannot open file "C:\Users\jalis\Desktop\terade_conf\data\trades_db.duckdb": The process cannot access the file because it is being used by another process.
+
+File is already open in 
+C:\python3\python.exe (PID 3004)
+C:\python3\python.exe (PID 2372)
+2026-09-03 23:29:47,010 - reports_logger - ERROR - Failed for client 'F0039': IO Error: Cannot open file "C:\Users\jalis\Desktop\terade_conf\data\trades_db.duckdb": The process cannot access the file because it is being used by another process.
+
+File is already open in 
+C:\python3\python.exe (PID 3004)
+C:\python3\python.exe (PID 2372)
+2026-09-03 23:29:47,011 - reports_logger - ERROR - Failed for client 'F0038': IO Error: Cannot open file "C:\Users\jalis\Desktop\terade_conf\data\trades_db.duckdb": The process cannot access the file because it is being used by another process.
+
+File is already open in 
+C:\python3\python.exe (PID 3004)
+C:\python3\python.exe (PID 2372)
+2026-09-03 23:29:47,022 - reports_logger - ERROR - Failed for client 'F0040': IO Error: Cannot open file "C:\Users\jalis\Desktop\terade_conf\data\trades_db.duckdb": The process cannot access the file because it is being used by another process.
+
+File is already open in 
+C:\python3\python.exe (PID 3004)
+C:\python3\python.exe (PID 2372)
+2026-09-03 23:29:47,185 - reports_logger - ERROR - Failed for client 'F0041': IO Error: Cannot open file "C:\Users\jalis\Desktop\terade_conf\data\trades_db.duckdb": The process cannot access the file because it is being used by another process.
+
+2026-09-03 23:29:47,201 - reports_logger - ERROR - Failed for client 'F0045': IO Error: Cannot open file "C:\Users\jalis\Desktop\terade_conf\data\trades_db.duckdb": The process cannot access the file because it is being used by another process.
+
+File is already open in 
+C:\python3\python.exe (PID 3004)
+C:\python3\python.exe (PID 2372)
+2026-09-03 23:29:47,204 - reports_logger - ERROR - Failed for client 'F0042': IO Error: Cannot open file "C:\Users\jalis\Desktop\terade_conf\data\trades_db.duckdb": The process cannot access the file because it is being used by another process.
+
+File is already open in 
+C:\python3\python.exe (PID 3004)
+C:\python3\python.exe (PID 2372)
+2026-09-03 23:29:47,211 - reports_logger - ERROR - Failed for client 'F0043': IO Error: Cannot open file "C:\Users\jalis\Desktop\terade_conf\data\trades_db.duckdb": The process cannot access the file because it is being used by another process.
+
+File is already open in 
+C:\python3\python.exe (PID 3004)
+C:\python3\python.exe (PID 2372)
+2026-09-03 23:29:47,216 - reports_logger - ERROR - Failed for client 'F0044': IO Error: Cannot open file "C:\Users\jalis\Desktop\terade_conf\data\trades_db.duckdb": The process cannot access the file because it is being used by another process.
+
+File is already open in 
+C:\python3\python.exe (PID 3004)
+C:\python3\python.exe (PID 2372)
+2026-09-03 23:29:47,367 - reports_logger - ERROR - Failed for client 'F0047': IO Error: Cannot open file "C:\Users\jalis\Desktop\terade_conf\data\trades_db.duckdb": The process cannot access the file because it is being used by another process.
+
+File is already open in 
+C:\python3\python.exe (PID 3004)
+C:\python3\python.exe (PID 2372)
+2026-09-03 23:29:47,378 - reports_logger - ERROR - Failed for client 'F0048': IO Error: Cannot open file "C:\Users\jalis\Desktop\terade_conf\data\trades_db.duckdb": The process cannot access the file because it is being used by another process.
+
+File is already open in 
+C:\python3\python.exe (PID 3004)
+C:\python3\python.exe (PID 2372)
+2026-09-03 23:29:47,379 - reports_logger - ERROR - Failed for client 'F0046': IO Error: Cannot open file "C:\Users\jalis\Desktop\terade_conf\data\trades_db.duckdb": The process cannot access the file because it is being used by another process.
+
+File is already open in 
+C:\python3\python.exe (PID 3004)
+C:\python3\python.exe (PID 2372)
+2026-09-03 23:29:47,552 - reports_logger - ERROR - Failed for client 'F0051': IO Error: Cannot open file "C:\Users\jalis\Desktop\terade_conf\data\trades_db.duckdb": The process cannot access the file because it is being used by another process.
+
+File is already open in 
+C:\python3\python.exe (PID 3004)
+C:\python3\python.exe (PID 2372)
+2026-09-03 23:29:47,558 - reports_logger - ERROR - Failed for client 'F0050': IO Error: Cannot open file "C:\Users\jalis\Desktop\terade_conf\data\trades_db.duckdb": The process cannot access the file because it is being used by another process.
+
+File is already open in 
+C:\python3\python.exe (PID 3004)
+C:\python3\python.exe (PID 2372)
+2026-09-03 23:29:47,563 - reports_logger - ERROR - Failed for client 'F0052': IO Error: Cannot open file "C:\Users\jalis\Desktop\terade_conf\data\trades_db.duckdb": The process cannot access the file because it is being used by another process.
+
+File is already open in 
+C:\python3\python.exe (PID 3004)
+C:\python3\python.exe (PID 2372)
+2026-09-03 23:29:47,577 - reports_logger - ERROR - Failed for client 'F0053': IO Error: Cannot open file "C:\Users\jalis\Desktop\terade_conf\data\trades_db.duckdb": The process cannot access the file because it is being used by another process.
+
+2026-09-03 23:29:47,582 - reports_logger - ERROR - Failed for client 'F0049': IO Error: Cannot open file "C:\Users\jalis\Desktop\terade_conf\data\trades_db.duckdb": The process cannot access the file because it is being used by another process.
+
+File is already open in 
+C:\python3\python.exe (PID 3004)
+C:\python3\python.exe (PID 2372)
+2026-09-03 23:29:47,732 - reports_logger - ERROR - Failed for client 'F0055': IO Error: Cannot open file "C:\Users\jalis\Desktop\terade_conf\data\trades_db.duckdb": The process cannot access the file because it is being used by another process.
+
+File is already open in 
+C:\python3\python.exe (PID 3004)
+C:\python3\python.exe (PID 2372)
+2026-09-03 23:29:47,733 - reports_logger - ERROR - Failed for client 'F0056': IO Error: Cannot open file "C:\Users\jalis\Desktop\terade_conf\data\trades_db.duckdb": The process cannot access the file because it is being used by another process.
+
+File is already open in 
+C:\python3\python.exe (PID 3004)
+C:\python3\python.exe (PID 2372)
+2026-09-03 23:29:47,732 - reports_logger - ERROR - Failed for client 'F0054': IO Error: Cannot open file "C:\Users\jalis\Desktop\terade_conf\data\trades_db.duckdb": The process cannot access the file because it is being used by another process.
+
+File is already open in 
+C:\python3\python.exe (PID 3004)
+C:\python3\python.exe (PID 2372)
+2026-09-03 23:29:47,899 - reports_logger - ERROR - Failed for client 'F0059': IO Error: Cannot open file "C:\Users\jalis\Desktop\terade_conf\data\trades_db.duckdb": The process cannot access the file because it is being used by another process.
+
+2026-09-03 23:29:47,900 - reports_logger - ERROR - Failed for client 'F0061': IO Error: Cannot open file "C:\Users\jalis\Desktop\terade_conf\data\trades_db.duckdb": The process cannot access the file because it is being used by another process.
+
+File is already open in 
+C:\python3\python.exe (PID 3004)
+C:\python3\python.exe (PID 2372)
+2026-09-03 23:29:47,914 - reports_logger - ERROR - Failed for client 'F0060': IO Error: Cannot open file "C:\Users\jalis\Desktop\terade_conf\data\trades_db.duckdb": The process cannot access the file because it is being used by another process.
+
+File is already open in 
+C:\python3\python.exe (PID 3004)
+C:\python3\python.exe (PID 2372)
+2026-09-03 23:29:47,920 - reports_logger - ERROR - Failed for client 'F0057': IO Error: Cannot open file "C:\Users\jalis\Desktop\terade_conf\data\trades_db.duckdb": The process cannot access the file because it is being used by another process.
+
+File is already open in 
+C:\python3\python.exe (PID 3004)
+C:\python3\python.exe (PID 2372)
+2026-09-03 23:29:47,928 - reports_logger - ERROR - Failed for client 'F0058': IO Error: Cannot open file "C:\Users\jalis\Desktop\terade_conf\data\trades_db.duckdb": The process cannot access the file because it is being used by another process.
+
+File is already open in 
+C:\python3\python.exe (PID 3004)
+C:\python3\python.exe (PID 2372)
+2026-09-03 23:29:48,041 - reports_logger - ERROR - Failed for client 'F0064': IO Error: Cannot open file "C:\Users\jalis\Desktop\terade_conf\data\trades_db.duckdb": The process cannot access the file because it is being used by another process.
+
+2026-09-03 23:29:48,059 - reports_logger - ERROR - Failed for client 'F0062': IO Error: Cannot open file "C:\Users\jalis\Desktop\terade_conf\data\trades_db.duckdb": The process cannot access the file because it is being used by another process.
+
+File is already open in 
+C:\python3\python.exe (PID 3004)
+C:\python3\python.exe (PID 2372)
+2026-09-03 23:29:48,061 - reports_logger - ERROR - Failed for client 'F0063': IO Error: Cannot open file "C:\Users\jalis\Desktop\terade_conf\data\trades_db.duckdb": The process cannot access the file because it is being used by another process.
+
+File is already open in 
+C:\python3\python.exe (PID 3004)
+C:\python3\python.exe (PID 2372)
+2026-09-03 23:29:48,414 - reports_logger - INFO - Generated report for client 'F0065' on 2026-08-31
+2026-09-03 23:29:48,414 - reports_logger - INFO - Generated report for client 'F0069' on 2026-08-31
+2026-09-03 23:29:48,422 - reports_logger - INFO - Generated report for client 'F0070' on 2026-08-31
+2026-09-03 23:29:48,424 - reports_logger - INFO - Generated report for client 'F0068' on 2026-08-31
+2026-09-03 23:29:48,428 - reports_logger - INFO - Generated report for client 'F0066' on 2026-08-31
+2026-09-03 23:29:48,429 - reports_logger - INFO - Generated report for client 'F0067' on 2026-08-31
+2026-09-03 23:29:48,479 - reports_logger - INFO - Generated report for client 'F0071' on 2026-08-31
+2026-09-03 23:29:48,526 - reports_logger - INFO - Generated report for client 'F0072' on 2026-08-31
+2026-09-03 23:29:51,634 - reports_logger - INFO - Generated report for client 'F0076' on 2026-08-31
+2026-09-03 23:29:51,634 - reports_logger - INFO - Generated report for client 'F0073' on 2026-08-31
+2026-09-03 23:29:51,643 - reports_logger - INFO - Generated report for client 'F0077' on 2026-08-31
+2026-09-03 23:29:51,644 - reports_logger - INFO - Generated report for client 'F0074' on 2026-08-31
+2026-09-03 23:29:51,650 - reports_logger - INFO - Generated report for client 'F0075' on 2026-08-31
+2026-09-03 23:29:51,786 - reports_logger - INFO - Generated report for client 'F0078' on 2026-08-31
+2026-09-03 23:29:51,786 - reports_logger - INFO - Generated report for client 'F0080' on 2026-08-31
+2026-09-03 23:29:51,792 - reports_logger - INFO - Generated report for client 'F0079' on 2026-08-31
+2026-09-03 23:29:54,888 - reports_logger - INFO - Generated report for client 'F0081' on 2026-08-31
+2026-09-03 23:29:54,903 - reports_logger - INFO - Generated report for client 'F0083' on 2026-08-31
+2026-09-03 23:29:54,907 - reports_logger - INFO - Generated report for client 'F0082' on 2026-08-31
+2026-09-03 23:29:54,906 - reports_logger - INFO - Generated report for client 'F0084' on 2026-08-31
+2026-09-03 23:29:54,918 - reports_logger - INFO - Generated report for client 'F0085' on 2026-08-31
+2026-09-03 23:29:55,104 - reports_logger - INFO - Generated report for client 'F0088' on 2026-08-31
+2026-09-03 23:29:55,104 - reports_logger - INFO - Generated report for client 'F0086' on 2026-08-31
+2026-09-03 23:29:55,107 - reports_logger - INFO - Generated report for client 'F0087' on 2026-08-31
+2026-09-03 23:29:58,144 - reports_logger - INFO - Generated report for client 'F0092' on 2026-08-31
+2026-09-03 23:29:58,145 - reports_logger - INFO - Generated report for client 'F0089' on 2026-08-31
+2026-09-03 23:29:58,148 - reports_logger - INFO - Generated report for client 'F0090' on 2026-08-31
+2026-09-03 23:29:58,148 - reports_logger - INFO - Generated report for client 'F0091' on 2026-08-31
+2026-09-03 23:29:58,151 - reports_logger - INFO - Generated report for client 'F0093' on 2026-08-31
+2026-09-03 23:29:58,332 - reports_logger - INFO - Generated report for client 'F0094' on 2026-08-31
+2026-09-03 23:29:58,332 - reports_logger - INFO - Generated report for client 'F0096' on 2026-08-31
+2026-09-03 23:29:58,337 - reports_logger - INFO - Generated report for client 'F0095' on 2026-08-31
+2026-09-03 23:30:01,327 - reports_logger - INFO - Generated report for client 'F0097' on 2026-08-31
+2026-09-03 23:30:01,328 - reports_logger - INFO - Generated report for client 'F0100' on 2026-08-31
+2026-09-03 23:30:01,329 - reports_logger - INFO - Generated report for client 'F0101' on 2026-08-31
+2026-09-03 23:30:01,329 - reports_logger - INFO - Generated report for client 'F0099' on 2026-08-31
+2026-09-03 23:30:01,334 - reports_logger - INFO - Generated report for client 'F0098' on 2026-08-31
+2026-09-03 23:30:01,452 - reports_logger - INFO - Generated report for client 'F0104' on 2026-08-31
+2026-09-03 23:30:01,452 - reports_logger - INFO - Generated report for client 'F0103' on 2026-08-31
+2026-09-03 23:30:01,456 - reports_logger - INFO - Generated report for client 'F0102' on 2026-08-31
+2026-09-03 23:30:04,511 - reports_logger - INFO - Generated report for client 'F0107' on 2026-08-31
+2026-09-03 23:30:04,513 - reports_logger - INFO - Generated report for client 'F0105' on 2026-08-31
+2026-09-03 23:30:04,513 - reports_logger - INFO - Generated report for client 'F0108' on 2026-08-31
+2026-09-03 23:30:04,513 - reports_logger - INFO - Generated report for client 'F0106' on 2026-08-31
+2026-09-03 23:30:04,518 - reports_logger - INFO - Generated report for client 'F0109' on 2026-08-31
+2026-09-03 23:30:04,632 - reports_logger - INFO - Generated report for client 'F0112' on 2026-08-31
+2026-09-03 23:30:04,632 - reports_logger - INFO - Generated report for client 'F0111' on 2026-08-31
+2026-09-03 23:30:04,636 - reports_logger - INFO - Generated report for client 'F0110' on 2026-08-31
+2026-09-03 23:30:07,724 - reports_logger - INFO - Generated report for client 'F0114' on 2026-08-31
+2026-09-03 23:30:07,725 - reports_logger - INFO - Generated report for client 'F0116' on 2026-08-31
+2026-09-03 23:30:07,725 - reports_logger - INFO - Generated report for client 'F0115' on 2026-08-31
+2026-09-03 23:30:07,727 - reports_logger - INFO - Generated report for client 'F0117' on 2026-08-31
+2026-09-03 23:30:07,732 - reports_logger - INFO - Generated report for client 'F0113' on 2026-08-31
+2026-09-03 23:30:07,894 - reports_logger - INFO - Generated report for client 'F0118' on 2026-08-31
+2026-09-03 23:30:07,894 - reports_logger - INFO - Generated report for client 'F0119' on 2026-08-31
+2026-09-03 23:30:07,898 - reports_logger - INFO - Generated report for client 'F0120' on 2026-08-31
+2026-09-03 23:30:10,916 - reports_logger - INFO - Generated report for client 'F0122' on 2026-08-31
+2026-09-03 23:30:10,924 - reports_logger - INFO - Generated report for client 'F0121' on 2026-08-31
+2026-09-03 23:30:10,925 - reports_logger - INFO - Generated report for client 'F0124' on 2026-08-31
+2026-09-03 23:30:10,926 - reports_logger - INFO - Generated report for client 'F0123' on 2026-08-31
+2026-09-03 23:30:10,933 - reports_logger - INFO - Generated report for client 'F0125' on 2026-08-31
+2026-09-03 23:30:11,079 - reports_logger - INFO - Generated report for client 'F0128' on 2026-08-31
+2026-09-03 23:30:11,082 - reports_logger - INFO - Generated report for client 'F0126' on 2026-08-31
+2026-09-03 23:30:11,088 - reports_logger - INFO - Generated report for client 'F0127' on 2026-08-31
+2026-09-03 23:30:14,148 - reports_logger - INFO - Generated report for client 'F0133' on 2026-08-31
+2026-09-03 23:30:14,152 - reports_logger - INFO - Generated report for client 'F0130' on 2026-08-31
+2026-09-03 23:30:14,154 - reports_logger - INFO - Generated report for client 'F0132' on 2026-08-31
+2026-09-03 23:30:14,152 - reports_logger - INFO - Generated report for client 'F0129' on 2026-08-31
+2026-09-03 23:30:14,160 - reports_logger - INFO - Generated report for client 'F0131' on 2026-08-31
+2026-09-03 23:30:14,343 - reports_logger - INFO - Generated report for client 'F0134' on 2026-08-31
+2026-09-03 23:30:14,344 - reports_logger - INFO - Generated report for client 'F0136' on 2026-08-31
+2026-09-03 23:30:14,348 - reports_logger - INFO - Generated report for client 'F0135' on 2026-08-31
+2026-09-03 23:30:17,397 - reports_logger - INFO - Generated report for client 'F0141' on 2026-08-31
+2026-09-03 23:30:17,451 - reports_logger - INFO - Generated report for client 'F0140' on 2026-08-31
+2026-09-03 23:30:17,453 - reports_logger - INFO - Generated report for client 'F0138' on 2026-08-31
+2026-09-03 23:30:17,453 - reports_logger - INFO - Generated report for client 'F0139' on 2026-08-31
+2026-09-03 23:30:17,493 - reports_logger - INFO - Generated report for client 'F0142' on 2026-08-31
+2026-09-03 23:30:17,494 - reports_logger - INFO - Generated report for client 'F0137' on 2026-08-31
+2026-09-03 23:30:17,499 - reports_logger - INFO - Generated report for client 'F0143' on 2026-08-31
+2026-09-03 23:30:17,528 - reports_logger - INFO - Generated report for client 'F0144' on 2026-08-31
+2026-09-03 23:30:20,471 - reports_logger - INFO - Generated report for client 'F0145' on 2026-08-31
+2026-09-03 23:30:20,607 - reports_logger - INFO - Generated report for client 'F0147' on 2026-08-31
+2026-09-03 23:30:20,607 - reports_logger - INFO - Generated report for client 'F0146' on 2026-08-31
+2026-09-03 23:30:20,608 - reports_logger - INFO - Generated report for client 'F0148' on 2026-08-31
+2026-09-03 23:30:20,636 - reports_logger - INFO - Generated report for client 'F0149' on 2026-08-31
+2026-09-03 23:30:20,672 - reports_logger - INFO - Generated report for client 'F0150' on 2026-08-31
+2026-09-03 23:30:20,756 - reports_logger - INFO - Generated report for client 'F0151' on 2026-08-31
+2026-09-03 23:30:20,759 - reports_logger - INFO - Generated report for client 'F0152' on 2026-08-31
+2026-09-03 23:30:23,541 - reports_logger - INFO - Generated report for client 'F0153' on 2026-08-31
+2026-09-03 23:30:23,770 - reports_logger - INFO - Generated report for client 'F0155' on 2026-08-31
+2026-09-03 23:30:23,772 - reports_logger - INFO - Generated report for client 'F0157' on 2026-08-31
+2026-09-03 23:30:23,775 - reports_logger - INFO - Generated report for client 'F0156' on 2026-08-31
+2026-09-03 23:30:23,781 - reports_logger - INFO - Generated report for client 'F0154' on 2026-08-31
+2026-09-03 23:30:23,888 - reports_logger - INFO - Generated report for client 'F0159' on 2026-08-31
+2026-09-03 23:30:23,888 - reports_logger - INFO - Generated report for client 'F0158' on 2026-08-31
+2026-09-03 23:30:23,891 - reports_logger - INFO - Generated report for client 'F0160' on 2026-08-31
+2026-09-03 23:30:26,672 - reports_logger - INFO - Generated report for client 'F0161' on 2026-08-31
+2026-09-03 23:30:26,939 - reports_logger - INFO - Generated report for client 'F0164' on 2026-08-31
+2026-09-03 23:30:26,942 - reports_logger - INFO - Generated report for client 'F0163' on 2026-08-31
+2026-09-03 23:30:26,945 - reports_logger - INFO - Generated report for client 'F0162' on 2026-08-31
+2026-09-03 23:30:26,951 - reports_logger - INFO - Generated report for client 'F0165' on 2026-08-31
+2026-09-03 23:30:27,128 - reports_logger - INFO - Generated report for client 'F0168' on 2026-08-31
+2026-09-03 23:30:27,129 - reports_logger - INFO - Generated report for client 'F0167' on 2026-08-31
+2026-09-03 23:30:27,132 - reports_logger - INFO - Generated report for client 'F0166' on 2026-08-31
+2026-09-03 23:30:29,778 - reports_logger - INFO - Generated report for client 'F0169' on 2026-08-31
+2026-09-03 23:30:30,127 - reports_logger - INFO - Generated report for client 'F0171' on 2026-08-31
+2026-09-03 23:30:30,131 - reports_logger - INFO - Generated report for client 'F0173' on 2026-08-31
+2026-09-03 23:30:30,133 - reports_logger - INFO - Generated report for client 'F0172' on 2026-08-31
+2026-09-03 23:30:30,137 - reports_logger - INFO - Generated report for client 'F0170' on 2026-08-31
+2026-09-03 23:30:30,238 - reports_logger - INFO - Generated report for client 'F0176' on 2026-08-31
+2026-09-03 23:30:30,243 - reports_logger - INFO - Generated report for client 'F0175' on 2026-08-31
+2026-09-03 23:30:30,246 - reports_logger - INFO - Generated report for client 'F0174' on 2026-08-31
+2026-09-03 23:30:32,881 - reports_logger - INFO - Generated report for client 'F0177' on 2026-08-31
+2026-09-03 23:30:33,284 - reports_logger - INFO - Generated report for client 'F0180' on 2026-08-31
+2026-09-03 23:30:33,284 - reports_logger - INFO - Generated report for client 'F0179' on 2026-08-31
+2026-09-03 23:30:33,287 - reports_logger - INFO - Generated report for client 'F0178' on 2026-08-31
+2026-09-03 23:30:33,293 - reports_logger - INFO - Generated report for client 'F0181' on 2026-08-31
+2026-09-03 23:30:33,394 - reports_logger - INFO - Generated report for client 'F0184' on 2026-08-31
+2026-09-03 23:30:33,396 - reports_logger - INFO - Generated report for client 'F0183' on 2026-08-31
+2026-09-03 23:30:33,400 - reports_logger - INFO - Generated report for client 'F0182' on 2026-08-31
+2026-09-03 23:30:35,978 - reports_logger - INFO - Generated report for client 'F0185' on 2026-08-31
+2026-09-03 23:30:36,452 - reports_logger - INFO - Generated report for client 'F0188' on 2026-08-31
+2026-09-03 23:30:36,452 - reports_logger - INFO - Generated report for client 'F0187' on 2026-08-31
+2026-09-03 23:30:36,495 - reports_logger - INFO - Generated report for client 'F0186' on 2026-08-31
+2026-09-03 23:30:36,497 - reports_logger - INFO - Generated report for client 'F0189' on 2026-08-31
+2026-09-03 23:30:36,499 - reports_logger - INFO - Generated report for client 'F0190' on 2026-08-31
+2026-09-03 23:30:36,549 - reports_logger - INFO - Generated report for client 'F0191' on 2026-08-31
+2026-09-03 23:30:36,556 - reports_logger - INFO - Generated report for client 'F0192' on 2026-08-31
+2026-09-03 23:30:39,068 - reports_logger - INFO - Generated report for client 'F0193' on 2026-08-31
+2026-09-03 23:30:39,601 - reports_logger - INFO - Generated report for client 'F0194' on 2026-08-31
+2026-09-03 23:30:39,605 - reports_logger - INFO - Generated report for client 'F0196' on 2026-08-31
+2026-09-03 23:30:39,611 - reports_logger - INFO - Generated report for client 'F0195' on 2026-08-31
+2026-09-03 23:30:39,811 - reports_logger - INFO - Generated report for client 'F0198' on 2026-08-31
+2026-09-03 23:30:39,813 - reports_logger - INFO - Generated report for client 'F0199' on 2026-08-31
+2026-09-03 23:30:39,813 - reports_logger - INFO - Generated report for client 'F0197' on 2026-08-31
+2026-09-03 23:30:39,816 - reports_logger - INFO - Generated report for client 'F0200' on 2026-08-31
+2026-09-03 23:30:42,151 - reports_logger - INFO - Generated report for client 'F0201' on 2026-08-31
+2026-09-03 23:30:42,737 - reports_logger - INFO - Generated report for client 'F0204' on 2026-08-31
+2026-09-03 23:30:42,738 - reports_logger - INFO - Generated report for client 'F0202' on 2026-08-31
+2026-09-03 23:30:42,741 - reports_logger - INFO - Generated report for client 'F0203' on 2026-08-31
+2026-09-03 23:30:42,963 - reports_logger - INFO - Generated report for client 'F0205' on 2026-08-31
+2026-09-03 23:30:42,963 - reports_logger - INFO - Generated report for client 'F0207' on 2026-08-31
+2026-09-03 23:30:42,965 - reports_logger - INFO - Generated report for client 'F0208' on 2026-08-31
+2026-09-03 23:30:42,970 - reports_logger - INFO - Generated report for client 'F0206' on 2026-08-31
+2026-09-03 23:30:45,223 - reports_logger - INFO - Generated report for client 'F0209' on 2026-08-31
+2026-09-03 23:30:45,898 - reports_logger - INFO - Generated report for client 'F0210' on 2026-08-31
+2026-09-03 23:30:45,901 - reports_logger - INFO - Generated report for client 'F0212' on 2026-08-31
+2026-09-03 23:30:45,905 - reports_logger - INFO - Generated report for client 'F0211' on 2026-08-31
+2026-09-03 23:30:46,114 - reports_logger - INFO - Generated report for client 'F0213' on 2026-08-31
+2026-09-03 23:30:46,116 - reports_logger - INFO - Generated report for client 'F0215' on 2026-08-31
+2026-09-03 23:30:46,116 - reports_logger - INFO - Generated report for client 'F0214' on 2026-08-31
+2026-09-03 23:30:46,120 - reports_logger - INFO - Generated report for client 'F0216' on 2026-08-31
+2026-09-03 23:30:48,313 - reports_logger - INFO - Generated report for client 'F0217' on 2026-08-31
+2026-09-03 23:30:49,046 - reports_logger - INFO - Generated report for client 'F0218' on 2026-08-31
+2026-09-03 23:30:49,047 - reports_logger - INFO - Generated report for client 'F0219' on 2026-08-31
+2026-09-03 23:30:49,052 - reports_logger - INFO - Generated report for client 'F0220' on 2026-08-31
+2026-09-03 23:30:49,262 - reports_logger - INFO - Generated report for client 'F0223' on 2026-08-31
+2026-09-03 23:30:49,264 - reports_logger - INFO - Generated report for client 'F0224' on 2026-08-31
+2026-09-03 23:30:49,265 - reports_logger - INFO - Generated report for client 'F0222' on 2026-08-31
+2026-09-03 23:30:49,268 - reports_logger - INFO - Generated report for client 'F0221' on 2026-08-31
+2026-09-03 23:30:51,389 - reports_logger - INFO - Generated report for client 'F0225' on 2026-08-31
+2026-09-03 23:30:52,176 - reports_logger - INFO - Generated report for client 'F0227' on 2026-08-31
+2026-09-03 23:30:52,177 - reports_logger - INFO - Generated report for client 'F0226' on 2026-08-31
+2026-09-03 23:30:52,180 - reports_logger - INFO - Generated report for client 'F0228' on 2026-08-31
+2026-09-03 23:30:52,435 - reports_logger - INFO - Generated report for client 'F0231' on 2026-08-31
+2026-09-03 23:30:52,435 - reports_logger - INFO - Generated report for client 'F0230' on 2026-08-31
+2026-09-03 23:30:52,435 - reports_logger - INFO - Generated report for client 'F0229' on 2026-08-31
+2026-09-03 23:30:52,443 - reports_logger - INFO - Generated report for client 'F0232' on 2026-08-31
+2026-09-03 23:30:54,487 - reports_logger - INFO - Generated report for client 'F0233' on 2026-08-31
+2026-09-03 23:30:55,290 - reports_logger - INFO - Generated report for client 'F0235' on 2026-08-31
+2026-09-03 23:30:55,293 - reports_logger - INFO - Generated report for client 'F0234' on 2026-08-31
+2026-09-03 23:30:55,296 - reports_logger - INFO - Generated report for client 'F0236' on 2026-08-31
+2026-09-03 23:30:55,599 - reports_logger - INFO - Generated report for client 'F0238' on 2026-08-31
+2026-09-03 23:30:55,599 - reports_logger - INFO - Generated report for client 'F0239' on 2026-08-31
+2026-09-03 23:30:55,603 - reports_logger - INFO - Generated report for client 'F0237' on 2026-08-31
+2026-09-03 23:30:55,607 - reports_logger - INFO - Generated report for client 'F0240' on 2026-08-31
+2026-09-03 23:30:57,565 - reports_logger - INFO - Generated report for client 'F0241' on 2026-08-31
+2026-09-03 23:30:58,420 - reports_logger - INFO - Generated report for client 'F0244' on 2026-08-31
+2026-09-03 23:30:58,420 - reports_logger - INFO - Generated report for client 'F0242' on 2026-08-31
+2026-09-03 23:30:58,424 - reports_logger - INFO - Generated report for client 'F0243' on 2026-08-31
+2026-09-03 23:30:58,750 - reports_logger - INFO - Generated report for client 'F0247' on 2026-08-31
+2026-09-03 23:30:58,751 - reports_logger - INFO - Generated report for client 'F0248' on 2026-08-31
+2026-09-03 23:30:58,751 - reports_logger - INFO - Generated report for client 'F0245' on 2026-08-31
+2026-09-03 23:30:58,756 - reports_logger - INFO - Generated report for client 'F0246' on 2026-08-31
+2026-09-03 23:31:00,649 - reports_logger - INFO - Generated report for client 'F0249' on 2026-08-31
+2026-09-03 23:31:01,559 - reports_logger - INFO - Generated report for client 'F0250' on 2026-08-31
+2026-09-03 23:31:01,559 - reports_logger - INFO - Generated report for client 'F0252' on 2026-08-31
+2026-09-03 23:31:01,564 - reports_logger - INFO - Generated report for client 'F0251' on 2026-08-31
+2026-09-03 23:31:01,920 - reports_logger - INFO - Generated report for client 'F0254' on 2026-08-31
+2026-09-03 23:31:01,920 - reports_logger - INFO - Generated report for client 'F0253' on 2026-08-31
+2026-09-03 23:31:01,922 - reports_logger - INFO - Generated report for client 'F0255' on 2026-08-31
+2026-09-03 23:31:01,926 - reports_logger - INFO - Generated report for client 'F0256' on 2026-08-31
+2026-09-03 23:31:03,744 - reports_logger - INFO - Generated report for client 'F0257' on 2026-08-31
+2026-09-03 23:31:04,712 - reports_logger - INFO - Generated report for client 'F0259' on 2026-08-31
+2026-09-03 23:31:04,712 - reports_logger - INFO - Generated report for client 'F0258' on 2026-08-31
+2026-09-03 23:31:04,724 - reports_logger - INFO - Generated report for client 'F0260' on 2026-08-31
+2026-09-03 23:31:05,154 - reports_logger - INFO - Generated report for client 'F0261' on 2026-08-31
+2026-09-03 23:31:05,157 - reports_logger - INFO - Generated report for client 'F0263' on 2026-08-31
+2026-09-03 23:31:05,157 - reports_logger - INFO - Generated report for client 'F0262' on 2026-08-31
+2026-09-03 23:31:05,161 - reports_logger - INFO - Generated report for client 'F0264' on 2026-08-31
+2026-09-03 23:31:06,809 - reports_logger - INFO - Generated report for client 'F0265' on 2026-08-31
+2026-09-03 23:31:07,839 - reports_logger - INFO - Generated report for client 'F0266' on 2026-08-31
+2026-09-03 23:31:07,840 - reports_logger - INFO - Generated report for client 'F0267' on 2026-08-31
+2026-09-03 23:31:07,844 - reports_logger - INFO - Generated report for client 'F0268' on 2026-08-31
+2026-09-03 23:31:08,389 - reports_logger - INFO - Generated report for client 'F0271' on 2026-08-31
+2026-09-03 23:31:08,389 - reports_logger - INFO - Generated report for client 'F0269' on 2026-08-31
+2026-09-03 23:31:08,390 - reports_logger - INFO - Generated report for client 'F0270' on 2026-08-31
+2026-09-03 23:31:08,395 - reports_logger - INFO - Generated report for client 'F0272' on 2026-08-31
+2026-09-03 23:31:09,866 - reports_logger - INFO - Generated report for client 'F0273' on 2026-08-31
+2026-09-03 23:31:10,956 - reports_logger - INFO - Generated report for client 'F0274' on 2026-08-31
+2026-09-03 23:31:10,957 - reports_logger - INFO - Generated report for client 'F0276' on 2026-08-31
+2026-09-03 23:31:10,960 - reports_logger - INFO - Generated report for client 'F0275' on 2026-08-31
+2026-09-03 23:31:11,544 - reports_logger - INFO - Generated report for client 'F0280' on 2026-08-31
+2026-09-03 23:31:11,549 - reports_logger - INFO - Generated report for client 'F0277' on 2026-08-31
+2026-09-03 23:31:11,550 - reports_logger - INFO - Generated report for client 'F0278' on 2026-08-31
+2026-09-03 23:31:11,555 - reports_logger - INFO - Generated report for client 'F0279' on 2026-08-31
+2026-09-03 23:31:12,955 - reports_logger - INFO - Generated report for client 'F0281' on 2026-08-31
+2026-09-03 23:31:14,091 - reports_logger - INFO - Generated report for client 'F0282' on 2026-08-31
+2026-09-03 23:31:14,091 - reports_logger - INFO - Generated report for client 'F0284' on 2026-08-31
+2026-09-03 23:31:14,095 - reports_logger - INFO - Generated report for client 'F0283' on 2026-08-31
+2026-09-03 23:31:14,761 - reports_logger - INFO - Generated report for client 'F0288' on 2026-08-31
+2026-09-03 23:31:14,762 - reports_logger - INFO - Generated report for client 'F0285' on 2026-08-31
+2026-09-03 23:31:14,762 - reports_logger - INFO - Generated report for client 'F0287' on 2026-08-31
+2026-09-03 23:31:14,771 - reports_logger - INFO - Generated report for client 'F0286' on 2026-08-31
+2026-09-03 23:31:16,059 - reports_logger - INFO - Generated report for client 'F0289' on 2026-08-31
+2026-09-03 23:31:17,243 - reports_logger - INFO - Generated report for client 'F0292' on 2026-08-31
+2026-09-03 23:31:17,244 - reports_logger - INFO - Generated report for client 'F0291' on 2026-08-31
+2026-09-03 23:31:17,247 - reports_logger - INFO - Generated report for client 'F0290' on 2026-08-31
+2026-09-03 23:31:17,980 - reports_logger - INFO - Generated report for client 'F0293' on 2026-08-31
+2026-09-03 23:31:17,980 - reports_logger - INFO - Generated report for client 'F0296' on 2026-08-31
+2026-09-03 23:31:17,980 - reports_logger - INFO - Generated report for client 'F0295' on 2026-08-31
+2026-09-03 23:31:17,986 - reports_logger - INFO - Generated report for client 'F0294' on 2026-08-31
+2026-09-03 23:31:19,167 - reports_logger - INFO - Generated report for client 'F0297' on 2026-08-31
+2026-09-03 23:31:20,405 - reports_logger - INFO - Generated report for client 'F0300' on 2026-08-31
+2026-09-03 23:31:20,405 - reports_logger - INFO - Generated report for client 'F0298' on 2026-08-31
+2026-09-03 23:31:20,409 - reports_logger - INFO - Generated report for client 'F0299' on 2026-08-31
+2026-09-03 23:31:21,219 - reports_logger - INFO - Generated report for client 'F0302' on 2026-08-31
+2026-09-03 23:31:21,220 - reports_logger - INFO - Generated report for client 'F0301' on 2026-08-31
+2026-09-03 23:31:21,220 - reports_logger - INFO - Generated report for client 'F0304' on 2026-08-31
+2026-09-03 23:31:21,226 - reports_logger - INFO - Generated report for client 'F0303' on 2026-08-31
+2026-09-03 23:31:22,253 - reports_logger - INFO - Generated report for client 'F0305' on 2026-08-31
+2026-09-03 23:31:23,512 - reports_logger - INFO - Generated report for client 'F0307' on 2026-08-31
+2026-09-03 23:31:23,512 - reports_logger - INFO - Generated report for client 'F0308' on 2026-08-31
+2026-09-03 23:31:23,515 - reports_logger - INFO - Generated report for client 'F0306' on 2026-08-31
+2026-09-03 23:31:24,377 - reports_logger - INFO - Generated report for client 'F0311' on 2026-08-31
+2026-09-03 23:31:24,377 - reports_logger - INFO - Generated report for client 'F0310' on 2026-08-31
+2026-09-03 23:31:24,378 - reports_logger - INFO - Generated report for client 'F0309' on 2026-08-31
+2026-09-03 23:31:24,381 - reports_logger - INFO - Generated report for client 'F0312' on 2026-08-31
+2026-09-03 23:31:25,393 - reports_logger - INFO - Generated report for client 'F0313' on 2026-08-31
+2026-09-03 23:31:26,652 - reports_logger - INFO - Generated report for client 'F0315' on 2026-08-31
+2026-09-03 23:31:26,653 - reports_logger - INFO - Generated report for client 'F0314' on 2026-08-31
+2026-09-03 23:31:26,658 - reports_logger - INFO - Generated report for client 'F0316' on 2026-08-31
+2026-09-03 23:31:27,549 - reports_logger - INFO - Generated report for client 'F0317' on 2026-08-31
+2026-09-03 23:31:27,550 - reports_logger - INFO - Generated report for client 'F0318' on 2026-08-31
+2026-09-03 23:31:27,550 - reports_logger - INFO - Generated report for client 'F0319' on 2026-08-31
+2026-09-03 23:31:27,554 - reports_logger - INFO - Generated report for client 'F0320' on 2026-08-31
+2026-09-03 23:31:28,477 - reports_logger - INFO - Generated report for client 'F0321' on 2026-08-31
+2026-09-03 23:31:29,806 - reports_logger - INFO - Generated report for client 'F0324' on 2026-08-31
+2026-09-03 23:31:29,807 - reports_logger - INFO - Generated report for client 'F0322' on 2026-08-31
+2026-09-03 23:31:29,811 - reports_logger - INFO - Generated report for client 'F0323' on 2026-08-31
+2026-09-03 23:31:30,719 - reports_logger - INFO - Generated report for client 'F0328' on 2026-08-31
+2026-09-03 23:31:30,748 - reports_logger - INFO - Generated report for client 'F0327' on 2026-08-31
+2026-09-03 23:31:30,749 - reports_logger - INFO - Generated report for client 'F0325' on 2026-08-31
+2026-09-03 23:31:30,753 - reports_logger - INFO - Generated report for client 'F0326' on 2026-08-31
+2026-09-03 23:31:31,573 - reports_logger - INFO - Generated report for client 'F0329' on 2026-08-31
+2026-09-03 23:31:32,947 - reports_logger - INFO - Generated report for client 'F0332' on 2026-08-31
+2026-09-03 23:31:32,947 - reports_logger - INFO - Generated report for client 'F0330' on 2026-08-31
+2026-09-03 23:31:32,951 - reports_logger - INFO - Generated report for client 'F0331' on 2026-08-31
+2026-09-03 23:31:33,863 - reports_logger - INFO - Generated report for client 'F0334' on 2026-08-31
+2026-09-03 23:31:33,872 - reports_logger - INFO - Generated report for client 'F0333' on 2026-08-31
+2026-09-03 23:31:33,872 - reports_logger - INFO - Generated report for client 'F0335' on 2026-08-31
+2026-09-03 23:31:33,880 - reports_logger - INFO - Generated report for client 'F0336' on 2026-08-31
+2026-09-03 23:31:34,690 - reports_logger - INFO - Generated report for client 'F0337' on 2026-08-31
+2026-09-03 23:31:36,118 - reports_logger - INFO - Generated report for client 'F0340' on 2026-08-31
+2026-09-03 23:31:36,118 - reports_logger - INFO - Generated report for client 'F0339' on 2026-08-31
+2026-09-03 23:31:36,125 - reports_logger - INFO - Generated report for client 'F0338' on 2026-08-31
+2026-09-03 23:31:37,041 - reports_logger - INFO - Generated report for client 'F0343' on 2026-08-31
+2026-09-03 23:31:37,041 - reports_logger - INFO - Generated report for client 'F0342' on 2026-08-31
+2026-09-03 23:31:37,041 - reports_logger - INFO - Generated report for client 'F0341' on 2026-08-31
+2026-09-03 23:31:37,046 - reports_logger - INFO - Generated report for client 'F0344' on 2026-08-31
+2026-09-03 23:31:37,757 - reports_logger - INFO - Generated report for client 'F0345' on 2026-08-31
+2026-09-03 23:31:39,299 - reports_logger - INFO - Generated report for client 'F0348' on 2026-08-31
+2026-09-03 23:31:39,300 - reports_logger - INFO - Generated report for client 'F0347' on 2026-08-31
+2026-09-03 23:31:39,306 - reports_logger - INFO - Generated report for client 'F0346' on 2026-08-31
+2026-09-03 23:31:40,240 - reports_logger - INFO - Generated report for client 'F0350' on 2026-08-31
+2026-09-03 23:31:40,243 - reports_logger - INFO - Generated report for client 'F0352' on 2026-08-31
+2026-09-03 23:31:40,243 - reports_logger - INFO - Generated report for client 'F0351' on 2026-08-31
+2026-09-03 23:31:40,247 - reports_logger - INFO - Generated report for client 'F0349' on 2026-08-31
+2026-09-03 23:31:40,856 - reports_logger - INFO - Generated report for client 'F0353' on 2026-08-31
+2026-09-03 23:31:42,452 - reports_logger - INFO - Generated report for client 'F0354' on 2026-08-31
+2026-09-03 23:31:42,453 - reports_logger - INFO - Generated report for client 'F0355' on 2026-08-31
+2026-09-03 23:31:42,460 - reports_logger - INFO - Generated report for client 'F0356' on 2026-08-31
+2026-09-03 23:31:43,424 - reports_logger - INFO - Generated report for client 'F0357' on 2026-08-31
+2026-09-03 23:31:43,424 - reports_logger - INFO - Generated report for client 'F0360' on 2026-08-31
+2026-09-03 23:31:43,424 - reports_logger - INFO - Generated report for client 'F0358' on 2026-08-31
+2026-09-03 23:31:43,428 - reports_logger - INFO - Generated report for client 'F0359' on 2026-08-31
+2026-09-03 23:31:43,924 - reports_logger - INFO - Generated report for client 'F0361' on 2026-08-31
+2026-09-03 23:31:45,650 - reports_logger - INFO - Generated report for client 'F0362' on 2026-08-31
+2026-09-03 23:31:45,653 - reports_logger - INFO - Generated report for client 'F0364' on 2026-08-31
+2026-09-03 23:31:45,658 - reports_logger - INFO - Generated report for client 'F0363' on 2026-08-31
+2026-09-03 23:31:46,638 - reports_logger - INFO - Generated report for client 'F0367' on 2026-08-31
+2026-09-03 23:31:46,642 - reports_logger - INFO - Generated report for client 'F0365' on 2026-08-31
+2026-09-03 23:31:46,647 - reports_logger - INFO - Generated report for client 'F0366' on 2026-08-31
+2026-09-03 23:31:46,651 - reports_logger - INFO - Generated report for client 'F0368' on 2026-08-31
+2026-09-03 23:31:47,032 - reports_logger - INFO - Generated report for client 'F0369' on 2026-08-31
+2026-09-03 23:31:48,789 - reports_logger - INFO - Generated report for client 'F0372' on 2026-08-31
+2026-09-03 23:31:48,790 - reports_logger - INFO - Generated report for client 'F0371' on 2026-08-31
+2026-09-03 23:31:48,797 - reports_logger - INFO - Generated report for client 'F0370' on 2026-08-31
+2026-09-03 23:31:49,903 - reports_logger - INFO - Generated report for client 'F0376' on 2026-08-31
+2026-09-03 23:31:49,904 - reports_logger - INFO - Generated report for client 'F0374' on 2026-08-31
+2026-09-03 23:31:49,905 - reports_logger - INFO - Generated report for client 'F0373' on 2026-08-31
+2026-09-03 23:31:49,912 - reports_logger - INFO - Generated report for client 'F0375' on 2026-08-31
+2026-09-03 23:31:50,110 - reports_logger - INFO - Generated report for client 'F0377' on 2026-08-31
+2026-09-03 23:31:51,906 - reports_logger - INFO - Generated report for client 'F0378' on 2026-08-31
+2026-09-03 23:31:51,907 - reports_logger - INFO - Generated report for client 'F0379' on 2026-08-31
+2026-09-03 23:31:51,909 - reports_logger - INFO - Generated report for client 'F0380' on 2026-08-31
+2026-09-03 23:31:53,127 - reports_logger - INFO - Generated report for client 'F0381' on 2026-08-31
+2026-09-03 23:31:53,128 - reports_logger - INFO - Generated report for client 'F0383' on 2026-08-31
+2026-09-03 23:31:53,131 - reports_logger - INFO - Generated report for client 'F0382' on 2026-08-31
+2026-09-03 23:31:53,143 - reports_logger - INFO - Generated report for client 'F0384' on 2026-08-31
+2026-09-03 23:31:53,284 - reports_logger - INFO - Generated report for client 'F0385' on 2026-08-31
+2026-09-03 23:31:55,095 - reports_logger - INFO - Generated report for client 'F0387' on 2026-08-31
+2026-09-03 23:31:55,095 - reports_logger - INFO - Generated report for client 'F0388' on 2026-08-31
+2026-09-03 23:31:55,100 - reports_logger - INFO - Generated report for client 'F0386' on 2026-08-31
+2026-09-03 23:31:56,393 - reports_logger - INFO - Generated report for client 'F0392' on 2026-08-31
+2026-09-03 23:31:56,400 - reports_logger - INFO - Generated report for client 'F0390' on 2026-08-31
+2026-09-03 23:31:56,402 - reports_logger - INFO - Generated report for client 'F0391' on 2026-08-31
+2026-09-03 23:31:56,407 - reports_logger - INFO - Generated report for client 'F0389' on 2026-08-31
+2026-09-03 23:31:56,480 - reports_logger - INFO - Generated report for client 'F0393' on 2026-08-31
+2026-09-03 23:31:58,326 - reports_logger - INFO - Generated report for client 'F0394' on 2026-08-31
+2026-09-03 23:31:58,326 - reports_logger - INFO - Generated report for client 'F0395' on 2026-08-31
+2026-09-03 23:31:58,330 - reports_logger - INFO - Generated report for client 'F0396' on 2026-08-31
+2026-09-03 23:31:59,648 - reports_logger - INFO - Generated report for client 'F0400' on 2026-08-31
+2026-09-03 23:31:59,697 - reports_logger - INFO - Generated report for client 'F0398' on 2026-08-31
+2026-09-03 23:31:59,709 - reports_logger - INFO - Generated report for client 'F0397' on 2026-08-31
+2026-09-03 23:31:59,713 - reports_logger - INFO - Generated report for client 'F0399' on 2026-08-31
+2026-09-03 23:31:59,822 - reports_logger - INFO - Generated report for client 'F0401' on 2026-08-31
+2026-09-03 23:32:01,509 - reports_logger - INFO - Generated report for client 'F0404' on 2026-08-31
+2026-09-03 23:32:01,511 - reports_logger - INFO - Generated report for client 'F0403' on 2026-08-31
+2026-09-03 23:32:01,513 - reports_logger - INFO - Generated report for client 'F0402' on 2026-08-31
+2026-09-03 23:32:02,960 - reports_logger - INFO - Generated report for client 'F0407' on 2026-08-31
+2026-09-03 23:32:02,963 - reports_logger - INFO - Generated report for client 'F0405' on 2026-08-31
+2026-09-03 23:32:02,967 - reports_logger - INFO - Generated report for client 'F0406' on 2026-08-31
+2026-09-03 23:32:02,975 - reports_logger - INFO - Generated report for client 'F0408' on 2026-08-31
+2026-09-03 23:32:03,051 - reports_logger - INFO - Generated report for client 'F0409' on 2026-08-31
+2026-09-03 23:32:04,693 - reports_logger - INFO - Generated report for client 'F0412' on 2026-08-31
+2026-09-03 23:32:04,693 - reports_logger - INFO - Generated report for client 'F0410' on 2026-08-31
+2026-09-03 23:32:04,700 - reports_logger - INFO - Generated report for client 'F0411' on 2026-08-31
+2026-09-03 23:32:06,163 - reports_logger - INFO - Generated report for client 'F0414' on 2026-08-31
+2026-09-03 23:32:06,168 - reports_logger - INFO - Generated report for client 'F0415' on 2026-08-31
+2026-09-03 23:32:06,168 - reports_logger - INFO - Generated report for client 'F0416' on 2026-08-31
+2026-09-03 23:32:06,174 - reports_logger - INFO - Generated report for client 'F0413' on 2026-08-31
+2026-09-03 23:32:06,265 - reports_logger - INFO - Generated report for client 'F0417' on 2026-08-31
+2026-09-03 23:32:07,863 - reports_logger - INFO - Generated report for client 'F0420' on 2026-08-31
+2026-09-03 23:32:07,864 - reports_logger - INFO - Generated report for client 'F0419' on 2026-08-31
+2026-09-03 23:32:07,867 - reports_logger - INFO - Generated report for client 'F0418' on 2026-08-31
+2026-09-03 23:32:09,339 - reports_logger - INFO - Generated report for client 'F0422' on 2026-08-31
+2026-09-03 23:32:09,342 - reports_logger - INFO - Generated report for client 'F0421' on 2026-08-31
+2026-09-03 23:32:09,342 - reports_logger - INFO - Generated report for client 'F0423' on 2026-08-31
+2026-09-03 23:32:09,347 - reports_logger - INFO - Generated report for client 'F0424' on 2026-08-31
+2026-09-03 23:32:09,410 - reports_logger - INFO - Generated report for client 'F0425' on 2026-08-31
+2026-09-03 23:32:11,013 - reports_logger - INFO - Generated report for client 'F0428' on 2026-08-31
+2026-09-03 23:32:11,014 - reports_logger - INFO - Generated report for client 'F0427' on 2026-08-31
+2026-09-03 23:32:11,018 - reports_logger - INFO - Generated report for client 'F0426' on 2026-08-31
+2026-09-03 23:32:12,580 - reports_logger - INFO - Generated report for client 'F0430' on 2026-08-31
+2026-09-03 23:32:12,582 - reports_logger - INFO - Generated report for client 'F0431' on 2026-08-31
+2026-09-03 23:32:12,582 - reports_logger - INFO - Generated report for client 'F0432' on 2026-08-31
+2026-09-03 23:32:12,590 - reports_logger - INFO - Generated report for client 'F0429' on 2026-08-31
+2026-09-03 23:32:12,671 - reports_logger - INFO - Generated report for client 'F0433' on 2026-08-31
+2026-09-03 23:32:14,200 - reports_logger - INFO - Generated report for client 'F0434' on 2026-08-31
+2026-09-03 23:32:14,200 - reports_logger - INFO - Generated report for client 'F0435' on 2026-08-31
+2026-09-03 23:32:14,203 - reports_logger - INFO - Generated report for client 'F0436' on 2026-08-31
+2026-09-03 23:32:15,808 - reports_logger - INFO - Generated report for client 'F0439' on 2026-08-31
+2026-09-03 23:32:15,808 - reports_logger - INFO - Generated report for client 'F0437' on 2026-08-31
+2026-09-03 23:32:15,809 - reports_logger - INFO - Generated report for client 'F0440' on 2026-08-31
+2026-09-03 23:32:15,809 - reports_logger - INFO - Generated report for client 'F0438' on 2026-08-31
+2026-09-03 23:32:15,819 - reports_logger - INFO - Generated report for client 'F0441' on 2026-08-31
+2026-09-03 23:32:17,355 - reports_logger - INFO - Generated report for client 'F0442' on 2026-08-31
+2026-09-03 23:32:17,355 - reports_logger - INFO - Generated report for client 'F0443' on 2026-08-31
+2026-09-03 23:32:17,363 - reports_logger - INFO - Generated report for client 'F0444' on 2026-08-31
+2026-09-03 23:32:19,055 - reports_logger - INFO - Generated report for client 'F0448' on 2026-08-31
+2026-09-03 23:32:19,057 - reports_logger - INFO - Generated report for client 'F0447' on 2026-08-31
+2026-09-03 23:32:19,081 - reports_logger - INFO - Generated report for client 'F0449' on 2026-08-31
+2026-09-03 23:32:19,081 - reports_logger - INFO - Generated report for client 'F0446' on 2026-08-31
+2026-09-03 23:32:19,084 - reports_logger - INFO - Generated report for client 'F0445' on 2026-08-31
+2026-09-03 23:32:20,592 - reports_logger - INFO - Generated report for client 'F0452' on 2026-08-31
+2026-09-03 23:32:20,598 - reports_logger - INFO - Generated report for client 'F0451' on 2026-08-31
+2026-09-03 23:32:20,602 - reports_logger - INFO - Generated report for client 'F0450' on 2026-08-31
+2026-09-03 23:32:22,316 - reports_logger - INFO - Generated report for client 'F0457' on 2026-08-31
+2026-09-03 23:32:22,352 - reports_logger - INFO - Generated report for client 'F0456' on 2026-08-31
+2026-09-03 23:32:22,352 - reports_logger - INFO - Generated report for client 'F0454' on 2026-08-31
+2026-09-03 23:32:22,354 - reports_logger - INFO - Generated report for client 'F0453' on 2026-08-31
+2026-09-03 23:32:22,364 - reports_logger - INFO - Generated report for client 'F0455' on 2026-08-31
+2026-09-03 23:32:23,727 - reports_logger - INFO - Generated report for client 'F0458' on 2026-08-31
+2026-09-03 23:32:23,728 - reports_logger - INFO - Generated report for client 'F0459' on 2026-08-31
+2026-09-03 23:32:23,731 - reports_logger - INFO - Generated report for client 'F0460' on 2026-08-31
+2026-09-03 23:32:25,585 - reports_logger - INFO - Generated report for client 'F0465' on 2026-08-31
+2026-09-03 23:32:25,585 - reports_logger - INFO - Generated report for client 'F0462' on 2026-08-31
+2026-09-03 23:32:25,585 - reports_logger - INFO - Generated report for client 'F0463' on 2026-08-31
+2026-09-03 23:32:25,587 - reports_logger - INFO - Generated report for client 'F0464' on 2026-08-31
+2026-09-03 23:32:25,596 - reports_logger - INFO - Generated report for client 'F0461' on 2026-08-31
+2026-09-03 23:32:26,983 - reports_logger - INFO - Generated report for client 'F0466' on 2026-08-31
+2026-09-03 23:32:26,984 - reports_logger - INFO - Generated report for client 'F0468' on 2026-08-31
+2026-09-03 23:32:26,989 - reports_logger - INFO - Generated report for client 'F0467' on 2026-08-31
+2026-09-03 23:32:28,801 - reports_logger - INFO - Generated report for client 'F0471' on 2026-08-31
+2026-09-03 23:32:28,803 - reports_logger - INFO - Generated report for client 'F0470' on 2026-08-31
+2026-09-03 23:32:28,804 - reports_logger - INFO - Generated report for client 'F0472' on 2026-08-31
+2026-09-03 23:32:28,807 - reports_logger - INFO - Generated report for client 'F0473' on 2026-08-31
+2026-09-03 23:32:28,811 - reports_logger - INFO - Generated report for client 'F0469' on 2026-08-31
+2026-09-03 23:32:30,234 - reports_logger - INFO - Generated report for client 'F0475' on 2026-08-31
+2026-09-03 23:32:30,234 - reports_logger - INFO - Generated report for client 'F0474' on 2026-08-31
+2026-09-03 23:32:30,237 - reports_logger - INFO - Generated report for client 'F0476' on 2026-08-31
+2026-09-03 23:32:32,095 - reports_logger - INFO - Generated report for client 'F0481' on 2026-08-31
+2026-09-03 23:32:32,097 - reports_logger - INFO - Generated report for client 'F0480' on 2026-08-31
+2026-09-03 23:32:32,104 - reports_logger - INFO - Generated report for client 'F0477' on 2026-08-31
+2026-09-03 23:32:32,106 - reports_logger - INFO - Generated report for client 'F0479' on 2026-08-31
+2026-09-03 23:32:32,112 - reports_logger - INFO - Generated report for client 'F0478' on 2026-08-31
+2026-09-03 23:32:33,448 - reports_logger - INFO - Generated report for client 'F0482' on 2026-08-31
+2026-09-03 23:32:33,448 - reports_logger - INFO - Generated report for client 'F0484' on 2026-08-31
+2026-09-03 23:32:33,452 - reports_logger - INFO - Generated report for client 'F0483' on 2026-08-31
+2026-09-03 23:32:35,347 - reports_logger - INFO - Generated report for client 'F0488' on 2026-08-31
+2026-09-03 23:32:35,368 - reports_logger - INFO - Generated report for client 'F0486' on 2026-08-31
+2026-09-03 23:32:35,370 - reports_logger - INFO - Generated report for client 'F0485' on 2026-08-31
+2026-09-03 23:32:35,376 - reports_logger - INFO - Generated report for client 'F0489' on 2026-08-31
+2026-09-03 23:32:35,382 - reports_logger - INFO - Generated report for client 'F0487' on 2026-08-31
+2026-09-03 23:32:36,598 - reports_logger - INFO - Generated report for client 'F0492' on 2026-08-31
+2026-09-03 23:32:36,599 - reports_logger - INFO - Generated report for client 'F0490' on 2026-08-31
+2026-09-03 23:32:36,603 - reports_logger - INFO - Generated report for client 'F0491' on 2026-08-31
+2026-09-03 23:32:38,630 - reports_logger - INFO - Generated report for client 'F0493' on 2026-08-31
+2026-09-03 23:32:38,631 - reports_logger - INFO - Generated report for client 'F0495' on 2026-08-31
+2026-09-03 23:32:38,632 - reports_logger - INFO - Generated report for client 'F0494' on 2026-08-31
+2026-09-03 23:32:38,634 - reports_logger - INFO - Generated report for client 'F0497' on 2026-08-31
+2026-09-03 23:32:38,640 - reports_logger - INFO - Generated report for client 'F0496' on 2026-08-31
+2026-09-03 23:32:39,789 - reports_logger - INFO - Generated report for client 'F0498' on 2026-08-31
+2026-09-03 23:32:39,832 - reports_logger - INFO - Generated report for client 'F0500' on 2026-08-31
+2026-09-03 23:32:39,845 - reports_logger - INFO - Generated report for client 'F0499' on 2026-08-31
+2026-09-03 23:32:41,845 - reports_logger - INFO - Generated report for client 'F0504' on 2026-08-31
+2026-09-03 23:32:41,906 - reports_logger - INFO - Generated report for client 'F0503' on 2026-08-31
+2026-09-03 23:32:41,908 - reports_logger - INFO - Generated report for client 'F0502' on 2026-08-31
+2026-09-03 23:32:41,910 - reports_logger - INFO - Generated report for client 'F0501' on 2026-08-31
+2026-09-03 23:32:41,915 - reports_logger - INFO - Generated report for client 'F0505' on 2026-08-31
+2026-09-03 23:32:42,881 - reports_logger - INFO - Generated report for client 'F0506' on 2026-08-31
+2026-09-03 23:32:42,981 - reports_logger - INFO - Generated report for client 'F0507' on 2026-08-31
+2026-09-03 23:32:42,987 - reports_logger - INFO - Generated report for client 'F0508' on 2026-08-31
+2026-09-03 23:32:45,218 - reports_logger - INFO - Generated report for client 'F0511' on 2026-08-31
+2026-09-03 23:32:45,219 - reports_logger - INFO - Generated report for client 'F0512' on 2026-08-31
+2026-09-03 23:32:45,227 - reports_logger - INFO - Generated report for client 'F0510' on 2026-08-31
+2026-09-03 23:32:45,227 - reports_logger - INFO - Generated report for client 'F0513' on 2026-08-31
+2026-09-03 23:32:45,230 - reports_logger - INFO - Generated report for client 'F0509' on 2026-08-31
+2026-09-03 23:32:45,961 - reports_logger - INFO - Generated report for client 'F0514' on 2026-08-31
+2026-09-03 23:32:46,107 - reports_logger - INFO - Generated report for client 'F0516' on 2026-08-31
+2026-09-03 23:32:46,111 - reports_logger - INFO - Generated report for client 'F0515' on 2026-08-31
+2026-09-03 23:32:48,418 - reports_logger - INFO - Generated report for client 'F0519' on 2026-08-31
+2026-09-03 23:32:48,428 - reports_logger - INFO - Generated report for client 'F0521' on 2026-08-31
+2026-09-03 23:32:48,430 - reports_logger - INFO - Generated report for client 'F0517' on 2026-08-31
+2026-09-03 23:32:48,432 - reports_logger - INFO - Generated report for client 'F0518' on 2026-08-31
+2026-09-03 23:32:48,438 - reports_logger - INFO - Generated report for client 'F0520' on 2026-08-31
+2026-09-03 23:32:49,070 - reports_logger - INFO - Generated report for client 'F0522' on 2026-08-31
+2026-09-03 23:32:49,230 - reports_logger - INFO - Generated report for client 'F0524' on 2026-08-31
+2026-09-03 23:32:49,235 - reports_logger - INFO - Generated report for client 'F0523' on 2026-08-31
+2026-09-03 23:32:51,720 - reports_logger - INFO - Generated report for client 'F0525' on 2026-08-31
+2026-09-03 23:32:51,764 - reports_logger - INFO - Generated report for client 'F0528' on 2026-08-31
+2026-09-03 23:32:51,766 - reports_logger - INFO - Generated report for client 'F0527' on 2026-08-31
+2026-09-03 23:32:51,766 - reports_logger - INFO - Generated report for client 'F0529' on 2026-08-31
+2026-09-03 23:32:51,769 - reports_logger - INFO - Generated report for client 'F0526' on 2026-08-31
+2026-09-03 23:32:52,146 - reports_logger - INFO - Generated report for client 'F0530' on 2026-08-31
+2026-09-03 23:32:52,342 - reports_logger - INFO - Generated report for client 'F0532' on 2026-08-31
+2026-09-03 23:32:52,345 - reports_logger - INFO - Generated report for client 'F0531' on 2026-08-31
+2026-09-03 23:32:55,024 - reports_logger - INFO - Generated report for client 'F0537' on 2026-08-31
+2026-09-03 23:32:55,032 - reports_logger - INFO - Generated report for client 'F0536' on 2026-08-31
+2026-09-03 23:32:55,037 - reports_logger - INFO - Generated report for client 'F0533' on 2026-08-31
+2026-09-03 23:32:55,038 - reports_logger - INFO - Generated report for client 'F0534' on 2026-08-31
+2026-09-03 23:32:55,044 - reports_logger - INFO - Generated report for client 'F0535' on 2026-08-31
+2026-09-03 23:32:55,307 - reports_logger - INFO - Generated report for client 'F0538' on 2026-08-31
+2026-09-03 23:32:55,493 - reports_logger - INFO - Generated report for client 'F0540' on 2026-08-31
+2026-09-03 23:32:55,496 - reports_logger - INFO - Generated report for client 'F0539' on 2026-08-31
+2026-09-03 23:32:58,333 - reports_logger - INFO - Generated report for client 'F0544' on 2026-08-31
+2026-09-03 23:32:58,334 - reports_logger - INFO - Generated report for client 'F0545' on 2026-08-31
+2026-09-03 23:32:58,334 - reports_logger - INFO - Generated report for client 'F0542' on 2026-08-31
+2026-09-03 23:32:58,333 - reports_logger - INFO - Generated report for client 'F0543' on 2026-08-31
+2026-09-03 23:32:58,340 - reports_logger - INFO - Generated report for client 'F0541' on 2026-08-31
+2026-09-03 23:32:58,401 - reports_logger - INFO - Generated report for client 'F0546' on 2026-08-31
+2026-09-03 23:32:58,620 - reports_logger - INFO - Generated report for client 'F0548' on 2026-08-31
+2026-09-03 23:32:58,627 - reports_logger - INFO - Generated report for client 'F0547' on 2026-08-31
+2026-09-03 23:33:01,538 - reports_logger - INFO - Generated report for client 'F0550' on 2026-08-31
+2026-09-03 23:33:01,544 - reports_logger - INFO - Generated report for client 'F0549' on 2026-08-31
+2026-09-03 23:33:01,544 - reports_logger - INFO - Generated report for client 'F0553' on 2026-08-31
+2026-09-03 23:33:01,544 - reports_logger - INFO - Generated report for client 'F0551' on 2026-08-31
+2026-09-03 23:33:01,548 - reports_logger - INFO - Generated report for client 'F0552' on 2026-08-31
+2026-09-03 23:33:01,606 - reports_logger - INFO - Generated report for client 'F0554' on 2026-08-31
+2026-09-03 23:33:01,767 - reports_logger - INFO - Generated report for client 'F0555' on 2026-08-31
+2026-09-03 23:33:01,770 - reports_logger - INFO - Generated report for client 'F0556' on 2026-08-31
+2026-09-03 23:33:04,755 - reports_logger - INFO - Generated report for client 'F0557' on 2026-08-31
+2026-09-03 23:33:04,757 - reports_logger - INFO - Generated report for client 'F0559' on 2026-08-31
+2026-09-03 23:33:04,759 - reports_logger - INFO - Generated report for client 'F0558' on 2026-08-31
+2026-09-03 23:33:04,760 - reports_logger - INFO - Generated report for client 'F0560' on 2026-08-31
+2026-09-03 23:33:04,765 - reports_logger - INFO - Generated report for client 'F0561' on 2026-08-31
+2026-09-03 23:33:04,898 - reports_logger - INFO - Generated report for client 'F0563' on 2026-08-31
+2026-09-03 23:33:04,898 - reports_logger - INFO - Generated report for client 'F0562' on 2026-08-31
+2026-09-03 23:33:04,902 - reports_logger - INFO - Generated report for client 'F0564' on 2026-08-31
+2026-09-03 23:33:07,964 - reports_logger - INFO - Generated report for client 'F0568' on 2026-08-31
+2026-09-03 23:33:07,984 - reports_logger - INFO - Generated report for client 'F0566' on 2026-08-31
+2026-09-03 23:33:07,984 - reports_logger - INFO - Generated report for client 'F0569' on 2026-08-31
+2026-09-03 23:33:07,981 - reports_logger - INFO - Generated report for client 'F0567' on 2026-08-31
+2026-09-03 23:33:07,988 - reports_logger - INFO - Generated report for client 'F0565' on 2026-08-31
+2026-09-03 23:33:08,118 - reports_logger - INFO - Generated report for client 'F0571' on 2026-08-31
+2026-09-03 23:33:08,118 - reports_logger - INFO - Generated report for client 'F0570' on 2026-08-31
+2026-09-03 23:33:08,126 - reports_logger - INFO - Generated report for client 'F0572' on 2026-08-31
+2026-09-03 23:33:11,217 - reports_logger - INFO - Generated report for client 'F0576' on 2026-08-31
+2026-09-03 23:33:11,219 - reports_logger - INFO - Generated report for client 'F0574' on 2026-08-31
+2026-09-03 23:33:11,218 - reports_logger - INFO - Generated report for client 'F0577' on 2026-08-31
+2026-09-03 23:33:11,221 - reports_logger - INFO - Generated report for client 'F0575' on 2026-08-31
+2026-09-03 23:33:11,231 - reports_logger - INFO - Generated report for client 'F0573' on 2026-08-31
+2026-09-03 23:33:11,461 - reports_logger - INFO - Generated report for client 'F0579' on 2026-08-31
+2026-09-03 23:33:11,507 - reports_logger - INFO - Generated report for client 'F0578' on 2026-08-31
+2026-09-03 23:33:11,517 - reports_logger - INFO - Generated report for client 'F0580' on 2026-08-31
+2026-09-03 23:33:14,428 - reports_logger - INFO - Generated report for client 'F0585' on 2026-08-31
+2026-09-03 23:33:14,428 - reports_logger - INFO - Generated report for client 'F0583' on 2026-08-31
+2026-09-03 23:33:14,431 - reports_logger - INFO - Generated report for client 'F0584' on 2026-08-31
+2026-09-03 23:33:14,433 - reports_logger - INFO - Generated report for client 'F0581' on 2026-08-31
+2026-09-03 23:33:14,436 - reports_logger - INFO - Generated report for client 'F0582' on 2026-08-31
+2026-09-03 23:33:14,545 - reports_logger - INFO - Generated report for client 'F0586' on 2026-08-31
+2026-09-03 23:33:14,630 - reports_logger - INFO - Generated report for client 'F0587' on 2026-08-31
+2026-09-03 23:33:14,633 - reports_logger - INFO - Generated report for client 'F0588' on 2026-08-31
+2026-09-03 23:33:17,631 - reports_logger - INFO - Generated report for client 'F0589' on 2026-08-31
+2026-09-03 23:33:17,632 - reports_logger - INFO - Generated report for client 'F0593' on 2026-08-31
+2026-09-03 23:33:17,636 - reports_logger - INFO - Generated report for client 'F0592' on 2026-08-31
+2026-09-03 23:33:17,637 - reports_logger - INFO - Generated report for client 'F0590' on 2026-08-31
+2026-09-03 23:33:17,648 - reports_logger - INFO - Generated report for client 'F0591' on 2026-08-31
+2026-09-03 23:33:17,776 - reports_logger - INFO - Generated report for client 'F0594' on 2026-08-31
+2026-09-03 23:33:17,777 - reports_logger - INFO - Generated report for client 'F0595' on 2026-08-31
+2026-09-03 23:33:17,782 - reports_logger - INFO - Generated report for client 'F0596' on 2026-08-31
+2026-09-03 23:33:20,851 - reports_logger - INFO - Generated report for client 'F0599' on 2026-08-31
+2026-09-03 23:33:20,851 - reports_logger - INFO - Generated report for client 'F0600' on 2026-08-31
+2026-09-03 23:33:20,851 - reports_logger - INFO - Generated report for client 'F0601' on 2026-08-31
+2026-09-03 23:33:20,857 - reports_logger - INFO - Generated report for client 'F0598' on 2026-08-31
+2026-09-03 23:33:20,862 - reports_logger - INFO - Generated report for client 'F0597' on 2026-08-31
+2026-09-03 23:33:20,997 - reports_logger - INFO - Generated report for client 'F0603' on 2026-08-31
+2026-09-03 23:33:20,998 - reports_logger - INFO - Generated report for client 'F0604' on 2026-08-31
+2026-09-03 23:33:21,002 - reports_logger - INFO - Generated report for client 'F0602' on 2026-08-31
+2026-09-03 23:33:24,060 - reports_logger - INFO - Generated report for client 'F0608' on 2026-08-31
+2026-09-03 23:33:24,060 - reports_logger - INFO - Generated report for client 'F0609' on 2026-08-31
+2026-09-03 23:33:24,060 - reports_logger - INFO - Generated report for client 'F0607' on 2026-08-31
+2026-09-03 23:33:24,061 - reports_logger - INFO - Generated report for client 'F0606' on 2026-08-31
+2026-09-03 23:33:24,067 - reports_logger - INFO - Generated report for client 'F0605' on 2026-08-31
+2026-09-03 23:33:24,195 - reports_logger - INFO - Generated report for client 'F0612' on 2026-08-31
+2026-09-03 23:33:24,196 - reports_logger - INFO - Generated report for client 'F0611' on 2026-08-31
+2026-09-03 23:33:24,200 - reports_logger - INFO - Generated report for client 'F0610' on 2026-08-31
+2026-09-03 23:33:27,338 - reports_logger - INFO - Generated report for client 'F0613' on 2026-08-31
+2026-09-03 23:33:27,342 - reports_logger - INFO - Generated report for client 'F0616' on 2026-08-31
+2026-09-03 23:33:27,342 - reports_logger - INFO - Generated report for client 'F0617' on 2026-08-31
+2026-09-03 23:33:27,346 - reports_logger - INFO - Generated report for client 'F0614' on 2026-08-31
+2026-09-03 23:33:27,353 - reports_logger - INFO - Generated report for client 'F0615' on 2026-08-31
+2026-09-03 23:33:27,482 - reports_logger - INFO - Generated report for client 'F0618' on 2026-08-31
+2026-09-03 23:33:27,482 - reports_logger - INFO - Generated report for client 'F0619' on 2026-08-31
+2026-09-03 23:33:27,485 - reports_logger - INFO - Generated report for client 'F0620' on 2026-08-31
+2026-09-03 23:33:30,556 - reports_logger - INFO - Generated report for client 'F0621' on 2026-08-31
+2026-09-03 23:33:30,558 - reports_logger - INFO - Generated report for client 'F0623' on 2026-08-31
+2026-09-03 23:33:30,559 - reports_logger - INFO - Generated report for client 'F0624' on 2026-08-31
+2026-09-03 23:33:30,561 - reports_logger - INFO - Generated report for client 'F0625' on 2026-08-31
+2026-09-03 23:33:30,567 - reports_logger - INFO - Generated report for client 'F0622' on 2026-08-31
+2026-09-03 23:33:30,689 - reports_logger - INFO - Generated report for client 'F0628' on 2026-08-31
+2026-09-03 23:33:30,689 - reports_logger - INFO - Generated report for client 'F0626' on 2026-08-31
+2026-09-03 23:33:30,692 - reports_logger - INFO - Generated report for client 'F0627' on 2026-08-31
+2026-09-03 23:33:33,774 - reports_logger - INFO - Generated report for client 'F0632' on 2026-08-31
+2026-09-03 23:33:33,776 - reports_logger - INFO - Generated report for client 'F0633' on 2026-08-31
+2026-09-03 23:33:33,777 - reports_logger - INFO - Generated report for client 'F0629' on 2026-08-31
+2026-09-03 23:33:33,780 - reports_logger - INFO - Generated report for client 'F0631' on 2026-08-31
+2026-09-03 23:33:33,788 - reports_logger - INFO - Generated report for client 'F0630' on 2026-08-31
+2026-09-03 23:33:33,916 - reports_logger - INFO - Generated report for client 'F0635' on 2026-08-31
+2026-09-03 23:33:33,917 - reports_logger - INFO - Generated report for client 'F0636' on 2026-08-31
+2026-09-03 23:33:33,920 - reports_logger - INFO - Generated report for client 'F0634' on 2026-08-31
+2026-09-03 23:33:36,966 - reports_logger - INFO - Generated report for client 'F0641' on 2026-08-31
+2026-09-03 23:33:36,966 - reports_logger - INFO - Generated report for client 'F0640' on 2026-08-31
+2026-09-03 23:33:36,969 - reports_logger - INFO - Generated report for client 'F0639' on 2026-08-31
+2026-09-03 23:33:36,974 - reports_logger - INFO - Generated report for client 'F0638' on 2026-08-31
+2026-09-03 23:33:36,979 - reports_logger - INFO - Generated report for client 'F0637' on 2026-08-31
+2026-09-03 23:33:37,133 - reports_logger - INFO - Generated report for client 'F0642' on 2026-08-31
+2026-09-03 23:33:37,137 - reports_logger - INFO - Generated report for client 'F0644' on 2026-08-31
+2026-09-03 23:33:37,141 - reports_logger - INFO - Generated report for client 'F0643' on 2026-08-31
+2026-09-03 23:33:40,210 - reports_logger - INFO - Generated report for client 'F0646' on 2026-08-31
+2026-09-03 23:33:40,216 - reports_logger - INFO - Generated report for client 'F0649' on 2026-08-31
+2026-09-03 23:33:40,217 - reports_logger - INFO - Generated report for client 'F0647' on 2026-08-31
+2026-09-03 23:33:40,218 - reports_logger - INFO - Generated report for client 'F0648' on 2026-08-31
+2026-09-03 23:33:40,225 - reports_logger - INFO - Generated report for client 'F0645' on 2026-08-31
+2026-09-03 23:33:40,344 - reports_logger - INFO - Generated report for client 'F0650' on 2026-08-31
+2026-09-03 23:33:40,346 - reports_logger - INFO - Generated report for client 'F0652' on 2026-08-31
+2026-09-03 23:33:40,350 - reports_logger - INFO - Generated report for client 'F0651' on 2026-08-31
+2026-09-03 23:33:43,457 - reports_logger - INFO - Generated report for client 'F0657' on 2026-08-31
+2026-09-03 23:33:43,469 - reports_logger - INFO - Generated report for client 'F0653' on 2026-08-31
+2026-09-03 23:33:43,471 - reports_logger - INFO - Generated report for client 'F0654' on 2026-08-31
+2026-09-03 23:33:43,472 - reports_logger - INFO - Generated report for client 'F0656' on 2026-08-31
+2026-09-03 23:33:43,476 - reports_logger - INFO - Generated report for client 'F0655' on 2026-08-31
+2026-09-03 23:33:43,638 - reports_logger - INFO - Generated report for client 'F0658' on 2026-08-31
+2026-09-03 23:33:43,639 - reports_logger - INFO - Generated report for client 'F0660' on 2026-08-31
+2026-09-03 23:33:43,642 - reports_logger - INFO - Generated report for client 'F0659' on 2026-08-31
+2026-09-03 23:33:46,673 - reports_logger - INFO - Generated report for client 'F0665' on 2026-08-31
+2026-09-03 23:33:46,675 - reports_logger - INFO - Generated report for client 'F0663' on 2026-08-31
+2026-09-03 23:33:46,680 - reports_logger - INFO - Generated report for client 'F0661' on 2026-08-31
+2026-09-03 23:33:46,682 - reports_logger - INFO - Generated report for client 'F0662' on 2026-08-31
+2026-09-03 23:33:46,688 - reports_logger - INFO - Generated report for client 'F0664' on 2026-08-31
+2026-09-03 23:33:46,858 - reports_logger - INFO - Generated report for client 'F0666' on 2026-08-31
+2026-09-03 23:33:46,860 - reports_logger - INFO - Generated report for client 'F0667' on 2026-08-31
+2026-09-03 23:33:46,870 - reports_logger - INFO - Generated report for client 'F0668' on 2026-08-31
+2026-09-03 23:33:49,990 - reports_logger - INFO - Generated report for client 'F0670' on 2026-08-31
+2026-09-03 23:33:49,992 - reports_logger - INFO - Generated report for client 'F0673' on 2026-08-31
+2026-09-03 23:33:50,001 - reports_logger - INFO - Generated report for client 'F0671' on 2026-08-31
+2026-09-03 23:33:50,001 - reports_logger - INFO - Generated report for client 'F0672' on 2026-08-31
+2026-09-03 23:33:50,016 - reports_logger - INFO - Generated report for client 'F0669' on 2026-08-31
+2026-09-03 23:33:50,244 - reports_logger - INFO - Generated report for client 'F0676' on 2026-08-31
+2026-09-03 23:33:50,245 - reports_logger - INFO - Generated report for client 'F0675' on 2026-08-31
+2026-09-03 23:33:50,250 - reports_logger - INFO - Generated report for client 'F0674' on 2026-08-31
+2026-09-03 23:33:53,281 - reports_logger - INFO - Generated report for client 'F0680' on 2026-08-31
+2026-09-03 23:33:53,289 - reports_logger - INFO - Generated report for client 'F0677' on 2026-08-31
+2026-09-03 23:33:53,292 - reports_logger - INFO - Generated report for client 'F0678' on 2026-08-31
+2026-09-03 23:33:53,293 - reports_logger - INFO - Generated report for client 'F0679' on 2026-08-31
+2026-09-03 23:33:53,309 - reports_logger - INFO - Generated report for client 'F0681' on 2026-08-31
+2026-09-03 23:33:53,564 - reports_logger - INFO - Generated report for client 'F0683' on 2026-08-31
+2026-09-03 23:33:53,565 - reports_logger - INFO - Generated report for client 'F0684' on 2026-08-31
+2026-09-03 23:33:53,568 - reports_logger - INFO - Generated report for client 'F0682' on 2026-08-31
+2026-09-03 23:33:56,484 - reports_logger - INFO - Generated report for client 'F0687' on 2026-08-31
+2026-09-03 23:33:56,485 - reports_logger - INFO - Generated report for client 'F0689' on 2026-08-31
+2026-09-03 23:33:56,485 - reports_logger - INFO - Generated report for client 'F0688' on 2026-08-31
+2026-09-03 23:33:56,488 - reports_logger - INFO - Generated report for client 'F0685' on 2026-08-31
+2026-09-03 23:33:56,493 - reports_logger - INFO - Generated report for client 'F0686' on 2026-08-31
+2026-09-03 23:33:56,740 - reports_logger - INFO - Generated report for client 'F0690' on 2026-08-31
+2026-09-03 23:33:56,741 - reports_logger - INFO - Generated report for client 'F0691' on 2026-08-31
+2026-09-03 23:33:56,745 - reports_logger - INFO - Generated report for client 'F0692' on 2026-08-31
+2026-09-03 23:33:59,694 - reports_logger - INFO - Generated report for client 'F0695' on 2026-08-31
+2026-09-03 23:33:59,701 - reports_logger - INFO - Generated report for client 'F0693' on 2026-08-31
+2026-09-03 23:33:59,701 - reports_logger - INFO - Generated report for client 'F0697' on 2026-08-31
+2026-09-03 23:33:59,701 - reports_logger - INFO - Generated report for client 'F0696' on 2026-08-31
+2026-09-03 23:33:59,704 - reports_logger - INFO - Generated report for client 'F0694' on 2026-08-31
+2026-09-03 23:33:59,953 - reports_logger - INFO - Generated report for client 'F0700' on 2026-08-31
+2026-09-03 23:33:59,953 - reports_logger - INFO - Generated report for client 'F0698' on 2026-08-31
+2026-09-03 23:33:59,957 - reports_logger - INFO - Generated report for client 'F0699' on 2026-08-31
+2026-09-03 23:34:02,896 - reports_logger - INFO - Generated report for client 'F0703' on 2026-08-31
+2026-09-03 23:34:02,896 - reports_logger - INFO - Generated report for client 'F0701' on 2026-08-31
+2026-09-03 23:34:02,897 - reports_logger - INFO - Generated report for client 'F0704' on 2026-08-31
+2026-09-03 23:34:02,897 - reports_logger - INFO - Generated report for client 'F0705' on 2026-08-31
+2026-09-03 23:34:02,901 - reports_logger - INFO - Generated report for client 'F0702' on 2026-08-31
+2026-09-03 23:34:03,085 - reports_logger - INFO - Generated report for client 'F0708' on 2026-08-31
+2026-09-03 23:34:03,087 - reports_logger - INFO - Generated report for client 'F0707' on 2026-08-31
+2026-09-03 23:34:03,092 - reports_logger - INFO - Generated report for client 'F0706' on 2026-08-31
+2026-09-03 23:34:06,111 - reports_logger - INFO - Generated report for client 'F0710' on 2026-08-31
+2026-09-03 23:34:06,111 - reports_logger - INFO - Generated report for client 'F0713' on 2026-08-31
+2026-09-03 23:34:06,114 - reports_logger - INFO - Generated report for client 'F0712' on 2026-08-31
+2026-09-03 23:34:06,115 - reports_logger - INFO - Generated report for client 'F0711' on 2026-08-31
+2026-09-03 23:34:06,120 - reports_logger - INFO - Generated report for client 'F0709' on 2026-08-31
+2026-09-03 23:34:06,260 - reports_logger - INFO - Generated report for client 'F0715' on 2026-08-31
+2026-09-03 23:34:06,268 - reports_logger - INFO - Generated report for client 'F0716' on 2026-08-31
+2026-09-03 23:34:06,271 - reports_logger - INFO - Generated report for client 'F0714' on 2026-08-31
+2026-09-03 23:34:09,312 - reports_logger - INFO - Generated report for client 'F0717' on 2026-08-31
+2026-09-03 23:34:09,316 - reports_logger - INFO - Generated report for client 'F0720' on 2026-08-31
+2026-09-03 23:34:09,318 - reports_logger - INFO - Generated report for client 'F0721' on 2026-08-31
+2026-09-03 23:34:09,318 - reports_logger - INFO - Generated report for client 'F0719' on 2026-08-31
+2026-09-03 23:34:09,327 - reports_logger - INFO - Generated report for client 'F0718' on 2026-08-31
+2026-09-03 23:34:09,476 - reports_logger - INFO - Generated report for client 'F0722' on 2026-08-31
+2026-09-03 23:34:09,477 - reports_logger - INFO - Generated report for client 'F0724' on 2026-08-31
+2026-09-03 23:34:09,483 - reports_logger - INFO - Generated report for client 'F0723' on 2026-08-31
+2026-09-03 23:34:12,527 - reports_logger - INFO - Generated report for client 'F0726' on 2026-08-31
+2026-09-03 23:34:12,528 - reports_logger - INFO - Generated report for client 'F0728' on 2026-08-31
+2026-09-03 23:34:12,532 - reports_logger - INFO - Generated report for client 'F0727' on 2026-08-31
+2026-09-03 23:34:12,534 - reports_logger - INFO - Generated report for client 'F0729' on 2026-08-31
+2026-09-03 23:34:12,541 - reports_logger - INFO - Generated report for client 'F0725' on 2026-08-31
+2026-09-03 23:34:12,662 - reports_logger - INFO - Generated report for client 'F0732' on 2026-08-31
+2026-09-03 23:34:12,662 - reports_logger - INFO - Generated report for client 'F0730' on 2026-08-31
+2026-09-03 23:34:12,665 - reports_logger - INFO - Generated report for client 'F0731' on 2026-08-31
+2026-09-03 23:34:15,742 - reports_logger - INFO - Generated report for client 'F0737' on 2026-08-31
+2026-09-03 23:34:15,744 - reports_logger - INFO - Generated report for client 'F0733' on 2026-08-31
+2026-09-03 23:34:15,745 - reports_logger - INFO - Generated report for client 'F0736' on 2026-08-31
+2026-09-03 23:34:15,751 - reports_logger - INFO - Generated report for client 'F0734' on 2026-08-31
+2026-09-03 23:34:15,760 - reports_logger - INFO - Generated report for client 'F0735' on 2026-08-31
+2026-09-03 23:34:15,873 - reports_logger - INFO - Generated report for client 'F0740' on 2026-08-31
+2026-09-03 23:34:15,874 - reports_logger - INFO - Generated report for client 'F0739' on 2026-08-31
+2026-09-03 23:34:15,877 - reports_logger - INFO - Generated report for client 'F0738' on 2026-08-31
+2026-09-03 23:34:18,963 - reports_logger - INFO - Generated report for client 'F0744' on 2026-08-31
+2026-09-03 23:34:18,966 - reports_logger - INFO - Generated report for client 'F0743' on 2026-08-31
+2026-09-03 23:34:18,970 - reports_logger - INFO - Generated report for client 'F0741' on 2026-08-31
+2026-09-03 23:34:18,971 - reports_logger - INFO - Generated report for client 'F0745' on 2026-08-31
+2026-09-03 23:34:18,976 - reports_logger - INFO - Generated report for client 'F0742' on 2026-08-31
+2026-09-03 23:34:19,102 - reports_logger - INFO - Generated report for client 'F0747' on 2026-08-31
+2026-09-03 23:34:19,104 - reports_logger - INFO - Generated report for client 'F0746' on 2026-08-31
+2026-09-03 23:34:19,108 - reports_logger - INFO - Generated report for client 'F0748' on 2026-08-31
+2026-09-03 23:34:22,168 - reports_logger - INFO - Generated report for client 'F0751' on 2026-08-31
+2026-09-03 23:34:22,172 - reports_logger - INFO - Generated report for client 'F0752' on 2026-08-31
+2026-09-03 23:34:22,176 - reports_logger - INFO - Generated report for client 'F0753' on 2026-08-31
+2026-09-03 23:34:22,177 - reports_logger - INFO - Generated report for client 'F0749' on 2026-08-31
+2026-09-03 23:34:22,180 - reports_logger - INFO - Generated report for client 'F0750' on 2026-08-31
+2026-09-03 23:34:22,293 - reports_logger - INFO - Generated report for client 'F0754' on 2026-08-31
+2026-09-03 23:34:22,330 - reports_logger - INFO - Generated report for client 'F0755' on 2026-08-31
+2026-09-03 23:34:22,334 - reports_logger - INFO - Generated report for client 'F0756' on 2026-08-31
+2026-09-03 23:34:25,402 - reports_logger - INFO - Generated report for client 'F0757' on 2026-08-31
+2026-09-03 23:34:25,404 - reports_logger - INFO - Generated report for client 'F0759' on 2026-08-31
+2026-09-03 23:34:25,404 - reports_logger - INFO - Generated report for client 'F0760' on 2026-08-31
+2026-09-03 23:34:25,407 - reports_logger - INFO - Generated report for client 'F0761' on 2026-08-31
+2026-09-03 23:34:25,419 - reports_logger - INFO - Generated report for client 'F0758' on 2026-08-31
+2026-09-03 23:34:25,563 - reports_logger - INFO - Generated report for client 'F0763' on 2026-08-31
+2026-09-03 23:34:25,564 - reports_logger - INFO - Generated report for client 'F0762' on 2026-08-31
+2026-09-03 23:34:25,568 - reports_logger - INFO - Generated report for client 'F0764' on 2026-08-31
+2026-09-03 23:34:28,621 - reports_logger - INFO - Generated report for client 'F0765' on 2026-08-31
+2026-09-03 23:34:28,623 - reports_logger - INFO - Generated report for client 'F0768' on 2026-08-31
+2026-09-03 23:34:28,623 - reports_logger - INFO - Generated report for client 'F0769' on 2026-08-31
+2026-09-03 23:34:28,628 - reports_logger - INFO - Generated report for client 'F0766' on 2026-08-31
+2026-09-03 23:34:28,635 - reports_logger - INFO - Generated report for client 'F0767' on 2026-08-31
+2026-09-03 23:34:28,762 - reports_logger - INFO - Generated report for client 'F0772' on 2026-08-31
+2026-09-03 23:34:28,762 - reports_logger - INFO - Generated report for client 'F0770' on 2026-08-31
+2026-09-03 23:34:28,766 - reports_logger - INFO - Generated report for client 'F0771' on 2026-08-31
+2026-09-03 23:34:31,905 - reports_logger - INFO - Generated report for client 'F0777' on 2026-08-31
+2026-09-03 23:34:31,908 - reports_logger - INFO - Generated report for client 'F0774' on 2026-08-31
+2026-09-03 23:34:31,910 - reports_logger - INFO - Generated report for client 'F0773' on 2026-08-31
+2026-09-03 23:34:31,910 - reports_logger - INFO - Generated report for client 'F0776' on 2026-08-31
+2026-09-03 23:34:31,921 - reports_logger - INFO - Generated report for client 'F0775' on 2026-08-31
+2026-09-03 23:34:32,065 - reports_logger - INFO - Generated report for client 'F0779' on 2026-08-31
+2026-09-03 23:34:32,067 - reports_logger - INFO - Generated report for client 'F0780' on 2026-08-31
+2026-09-03 23:34:32,070 - reports_logger - INFO - Generated report for client 'F0778' on 2026-08-31
+2026-09-03 23:34:35,137 - reports_logger - INFO - Generated report for client 'F0784' on 2026-08-31
+2026-09-03 23:34:35,157 - reports_logger - INFO - Generated report for client 'F0782' on 2026-08-31
+2026-09-03 23:34:35,163 - reports_logger - INFO - Generated report for client 'F0785' on 2026-08-31
+2026-09-03 23:34:35,163 - reports_logger - INFO - Generated report for client 'F0781' on 2026-08-31
+2026-09-03 23:34:35,176 - reports_logger - INFO - Generated report for client 'F0783' on 2026-08-31
+2026-09-03 23:34:35,365 - reports_logger - INFO - Generated report for client 'F0786' on 2026-08-31
+2026-09-03 23:34:35,368 - reports_logger - INFO - Generated report for client 'F0787' on 2026-08-31
+2026-09-03 23:34:35,374 - reports_logger - INFO - Generated report for client 'F0788' on 2026-08-31
+2026-09-03 23:34:38,357 - reports_logger - INFO - Generated report for client 'F0793' on 2026-08-31
+2026-09-03 23:34:38,359 - reports_logger - INFO - Generated report for client 'F0791' on 2026-08-31
+2026-09-03 23:34:38,362 - reports_logger - INFO - Generated report for client 'F0792' on 2026-08-31
+2026-09-03 23:34:38,361 - reports_logger - INFO - Generated report for client 'F0789' on 2026-08-31
+2026-09-03 23:34:38,367 - reports_logger - INFO - Generated report for client 'F0790' on 2026-08-31
+2026-09-03 23:34:38,514 - reports_logger - INFO - Generated report for client 'F0796' on 2026-08-31
+2026-09-03 23:34:38,514 - reports_logger - INFO - Generated report for client 'F0795' on 2026-08-31
+2026-09-03 23:34:38,518 - reports_logger - INFO - Generated report for client 'F0794' on 2026-08-31
+2026-09-03 23:34:41,574 - reports_logger - INFO - Generated report for client 'F0801' on 2026-08-31
+2026-09-03 23:34:41,574 - reports_logger - INFO - Generated report for client 'F0799' on 2026-08-31
+2026-09-03 23:34:41,577 - reports_logger - INFO - Generated report for client 'F0798' on 2026-08-31
+2026-09-03 23:34:41,579 - reports_logger - INFO - Generated report for client 'F0797' on 2026-08-31
+2026-09-03 23:34:41,587 - reports_logger - INFO - Generated report for client 'F0800' on 2026-08-31
+2026-09-03 23:34:41,800 - reports_logger - INFO - Generated report for client 'F0804' on 2026-08-31
+2026-09-03 23:34:41,801 - reports_logger - INFO - Generated report for client 'F0803' on 2026-08-31
+2026-09-03 23:34:41,807 - reports_logger - INFO - Generated report for client 'F0802' on 2026-08-31
+2026-09-03 23:34:44,830 - reports_logger - INFO - Generated report for client 'F0805' on 2026-08-31
+2026-09-03 23:34:44,832 - reports_logger - INFO - Generated report for client 'F0809' on 2026-08-31
+2026-09-03 23:34:44,832 - reports_logger - INFO - Generated report for client 'F0807' on 2026-08-31
+2026-09-03 23:34:44,839 - reports_logger - INFO - Generated report for client 'F0806' on 2026-08-31
+2026-09-03 23:34:44,848 - reports_logger - INFO - Generated report for client 'F0808' on 2026-08-31
+2026-09-03 23:34:45,059 - reports_logger - INFO - Generated report for client 'F0810' on 2026-08-31
+2026-09-03 23:34:45,061 - reports_logger - INFO - Generated report for client 'F0812' on 2026-08-31
+2026-09-03 23:34:45,066 - reports_logger - INFO - Generated report for client 'F0811' on 2026-08-31
+2026-09-03 23:34:48,120 - reports_logger - INFO - Generated report for client 'F0816' on 2026-08-31
+2026-09-03 23:34:48,129 - reports_logger - INFO - Generated report for client 'F0817' on 2026-08-31
+2026-09-03 23:34:48,133 - reports_logger - INFO - Generated report for client 'F0814' on 2026-08-31
+2026-09-03 23:34:48,220 - reports_logger - INFO - Generated report for client 'F0813' on 2026-08-31
+2026-09-03 23:34:48,221 - reports_logger - INFO - Generated report for client 'F0815' on 2026-08-31
+2026-09-03 23:34:48,227 - reports_logger - INFO - Generated report for client 'F0818' on 2026-08-31
+2026-09-03 23:34:48,305 - reports_logger - INFO - Generated report for client 'F0819' on 2026-08-31
+2026-09-03 23:34:48,315 - reports_logger - INFO - Generated report for client 'F0820' on 2026-08-31
+2026-09-03 23:34:51,617 - reports_logger - INFO - Generated report for client 'F0824' on 2026-08-31
+2026-09-03 23:34:51,641 - reports_logger - INFO - Generated report for client 'F0821' on 2026-08-31
+2026-09-03 23:34:51,752 - reports_logger - INFO - Generated report for client 'F0823' on 2026-08-31
+2026-09-03 23:34:51,753 - reports_logger - INFO - Generated report for client 'F0825' on 2026-08-31
+2026-09-03 23:34:51,756 - reports_logger - INFO - Generated report for client 'F0826' on 2026-08-31
+2026-09-03 23:34:51,764 - reports_logger - INFO - Generated report for client 'F0822' on 2026-08-31
+2026-09-03 23:34:51,929 - reports_logger - INFO - Generated report for client 'F0828' on 2026-08-31
+2026-09-03 23:34:51,933 - reports_logger - INFO - Generated report for client 'F0827' on 2026-08-31
+2026-09-03 23:34:54,948 - reports_logger - INFO - Generated report for client 'F0830' on 2026-08-31
+2026-09-03 23:34:54,976 - reports_logger - INFO - Generated report for client 'F0829' on 2026-08-31
+2026-09-03 23:34:54,977 - reports_logger - INFO - Generated report for client 'F0833' on 2026-08-31
+2026-09-03 23:34:54,977 - reports_logger - INFO - Generated report for client 'F0832' on 2026-08-31
+2026-09-03 23:34:54,977 - reports_logger - INFO - Generated report for client 'F0831' on 2026-08-31
+2026-09-03 23:34:54,984 - reports_logger - INFO - Generated report for client 'F0834' on 2026-08-31
+2026-09-03 23:34:55,083 - reports_logger - INFO - Generated report for client 'F0836' on 2026-08-31
+2026-09-03 23:34:55,087 - reports_logger - INFO - Generated report for client 'F0835' on 2026-08-31
+2026-09-03 23:34:58,192 - reports_logger - INFO - Generated report for client 'F0840' on 2026-08-31
+2026-09-03 23:34:58,192 - reports_logger - INFO - Generated report for client 'F0837' on 2026-08-31
+2026-09-03 23:34:58,193 - reports_logger - INFO - Generated report for client 'F0842' on 2026-08-31
+2026-09-03 23:34:58,203 - reports_logger - INFO - Generated report for client 'F0839' on 2026-08-31
+2026-09-03 23:34:58,213 - reports_logger - INFO - Generated report for client 'F0838' on 2026-08-31
+2026-09-03 23:34:58,219 - reports_logger - INFO - Generated report for client 'F0841' on 2026-08-31
+2026-09-03 23:34:58,336 - reports_logger - INFO - Generated report for client 'F0843' on 2026-08-31
+2026-09-03 23:34:58,341 - reports_logger - INFO - Generated report for client 'F0844' on 2026-08-31
+2026-09-03 23:35:01,602 - reports_logger - INFO - Generated report for client 'F0845' on 2026-08-31
+2026-09-03 23:35:01,607 - reports_logger - INFO - Generated report for client 'F0846' on 2026-08-31
+2026-09-03 23:35:01,610 - reports_logger - INFO - Generated report for client 'F0849' on 2026-08-31
+2026-09-03 23:35:01,612 - reports_logger - INFO - Generated report for client 'F0848' on 2026-08-31
+2026-09-03 23:35:01,612 - reports_logger - INFO - Generated report for client 'F0850' on 2026-08-31
+2026-09-03 23:35:01,616 - reports_logger - INFO - Generated report for client 'F0847' on 2026-08-31
+2026-09-03 23:35:01,714 - reports_logger - INFO - Generated report for client 'F0852' on 2026-08-31
+2026-09-03 23:35:01,718 - reports_logger - INFO - Generated report for client 'F0851' on 2026-08-31
+2026-09-03 23:35:04,895 - reports_logger - INFO - Generated report for client 'F0858' on 2026-08-31
+2026-09-03 23:35:04,900 - reports_logger - INFO - Generated report for client 'F0853' on 2026-08-31
+2026-09-03 23:35:04,901 - reports_logger - INFO - Generated report for client 'F0855' on 2026-08-31
+2026-09-03 23:35:04,905 - reports_logger - INFO - Generated report for client 'F0854' on 2026-08-31
+2026-09-03 23:35:04,911 - reports_logger - INFO - Generated report for client 'F0857' on 2026-08-31
+2026-09-03 23:35:04,914 - reports_logger - INFO - Generated report for client 'F0856' on 2026-08-31
+2026-09-03 23:35:04,999 - reports_logger - INFO - Generated report for client 'F0860' on 2026-08-31
+2026-09-03 23:35:05,005 - reports_logger - INFO - Generated report for client 'F0859' on 2026-08-31
+2026-09-03 23:35:08,158 - reports_logger - INFO - Generated report for client 'F0861' on 2026-08-31
+2026-09-03 23:35:08,159 - reports_logger - INFO - Generated report for client 'F0864' on 2026-08-31
+2026-09-03 23:35:08,160 - reports_logger - INFO - Generated report for client 'F0863' on 2026-08-31
+2026-09-03 23:35:08,158 - reports_logger - INFO - Generated report for client 'F0865' on 2026-08-31
+2026-09-03 23:35:08,165 - reports_logger - INFO - Generated report for client 'F0862' on 2026-08-31
+2026-09-03 23:35:08,170 - reports_logger - INFO - Generated report for client 'F0866' on 2026-08-31
+2026-09-03 23:35:08,262 - reports_logger - INFO - Generated report for client 'F0868' on 2026-08-31
+2026-09-03 23:35:08,266 - reports_logger - INFO - Generated report for client 'F0867' on 2026-08-31
+2026-09-03 23:35:11,396 - reports_logger - INFO - Generated report for client 'F0870' on 2026-08-31
+2026-09-03 23:35:11,396 - reports_logger - INFO - Generated report for client 'F0874' on 2026-08-31
+2026-09-03 23:35:11,398 - reports_logger - INFO - Generated report for client 'F0873' on 2026-08-31
+2026-09-03 23:35:11,398 - reports_logger - INFO - Generated report for client 'F0869' on 2026-08-31
+2026-09-03 23:35:11,398 - reports_logger - INFO - Generated report for client 'F0871' on 2026-08-31
+2026-09-03 23:35:11,404 - reports_logger - INFO - Generated report for client 'F0872' on 2026-08-31
+2026-09-03 23:35:11,496 - reports_logger - INFO - Generated report for client 'F0875' on 2026-08-31
+2026-09-03 23:35:11,499 - reports_logger - INFO - Generated report for client 'F0876' on 2026-08-31
+2026-09-03 23:35:14,656 - reports_logger - INFO - Generated report for client 'F0880' on 2026-08-31
+2026-09-03 23:35:14,656 - reports_logger - INFO - Generated report for client 'F0882' on 2026-08-31
+2026-09-03 23:35:14,656 - reports_logger - INFO - Generated report for client 'F0881' on 2026-08-31
+2026-09-03 23:35:14,658 - reports_logger - INFO - Generated report for client 'F0879' on 2026-08-31
+2026-09-03 23:35:14,658 - reports_logger - INFO - Generated report for client 'F0878' on 2026-08-31
+2026-09-03 23:35:14,664 - reports_logger - INFO - Generated report for client 'F0877' on 2026-08-31
+2026-09-03 23:35:14,771 - reports_logger - INFO - Generated report for client 'F0884' on 2026-08-31
+2026-09-03 23:35:14,773 - reports_logger - INFO - Generated report for client 'F0883' on 2026-08-31
+2026-09-03 23:35:17,911 - reports_logger - INFO - Generated report for client 'F0888' on 2026-08-31
+2026-09-03 23:35:17,922 - reports_logger - INFO - Generated report for client 'F0887' on 2026-08-31
+2026-09-03 23:35:17,925 - reports_logger - INFO - Generated report for client 'F0885' on 2026-08-31
+2026-09-03 23:35:17,928 - reports_logger - INFO - Generated report for client 'F0890' on 2026-08-31
+2026-09-03 23:35:17,934 - reports_logger - INFO - Generated report for client 'F0886' on 2026-08-31
+2026-09-03 23:35:17,939 - reports_logger - INFO - Generated report for client 'F0889' on 2026-08-31
+2026-09-03 23:35:18,068 - reports_logger - INFO - Generated report for client 'F0892' on 2026-08-31
+2026-09-03 23:35:18,072 - reports_logger - INFO - Generated report for client 'F0891' on 2026-08-31
+2026-09-03 23:35:21,205 - reports_logger - INFO - Generated report for client 'F0894' on 2026-08-31
+2026-09-03 23:35:21,210 - reports_logger - INFO - Generated report for client 'F0896' on 2026-08-31
+2026-09-03 23:35:21,211 - reports_logger - INFO - Generated report for client 'F0897' on 2026-08-31
+2026-09-03 23:35:21,211 - reports_logger - INFO - Generated report for client 'F0893' on 2026-08-31
+2026-09-03 23:35:21,211 - reports_logger - INFO - Generated report for client 'F0895' on 2026-08-31
+2026-09-03 23:35:21,216 - reports_logger - INFO - Generated report for client 'F0898' on 2026-08-31
+2026-09-03 23:35:21,327 - reports_logger - INFO - Generated report for client 'F0900' on 2026-08-31
+2026-09-03 23:35:21,330 - reports_logger - INFO - Generated report for client 'F0899' on 2026-08-31
+2026-09-03 23:35:24,443 - reports_logger - INFO - Generated report for client 'F0904' on 2026-08-31
+2026-09-03 23:35:24,489 - reports_logger - INFO - Generated report for client 'F0903' on 2026-08-31
+2026-09-03 23:35:24,526 - reports_logger - INFO - Generated report for client 'F0906' on 2026-08-31
+2026-09-03 23:35:24,534 - reports_logger - INFO - Generated report for client 'F0905' on 2026-08-31
+2026-09-03 23:35:24,535 - reports_logger - INFO - Generated report for client 'F0901' on 2026-08-31
+2026-09-03 23:35:24,540 - reports_logger - INFO - Generated report for client 'F0902' on 2026-08-31
+2026-09-03 23:35:24,653 - reports_logger - INFO - Generated report for client 'F0907' on 2026-08-31
+2026-09-03 23:35:24,657 - reports_logger - INFO - Generated report for client 'F0908' on 2026-08-31
+2026-09-03 23:35:27,825 - reports_logger - INFO - Generated report for client 'F0912' on 2026-08-31
+2026-09-03 23:35:27,829 - reports_logger - INFO - Generated report for client 'F0911' on 2026-08-31
+2026-09-03 23:35:27,830 - reports_logger - INFO - Generated report for client 'F0914' on 2026-08-31
+2026-09-03 23:35:27,829 - reports_logger - INFO - Generated report for client 'F0909' on 2026-08-31
+2026-09-03 23:35:27,829 - reports_logger - INFO - Generated report for client 'F0913' on 2026-08-31
+2026-09-03 23:35:27,833 - reports_logger - INFO - Generated report for client 'F0910' on 2026-08-31
+2026-09-03 23:35:27,920 - reports_logger - INFO - Generated report for client 'F0915' on 2026-08-31
+2026-09-03 23:35:27,924 - reports_logger - INFO - Generated report for client 'F0916' on 2026-08-31
+2026-09-03 23:35:31,023 - reports_logger - INFO - Generated report for client 'F0918' on 2026-08-31
+2026-09-03 23:35:31,030 - reports_logger - INFO - Generated report for client 'F0917' on 2026-08-31
+2026-09-03 23:35:31,033 - reports_logger - INFO - Generated report for client 'F0919' on 2026-08-31
+2026-09-03 23:35:31,034 - reports_logger - INFO - Generated report for client 'F0922' on 2026-08-31
+2026-09-03 23:35:31,034 - reports_logger - INFO - Generated report for client 'F0921' on 2026-08-31
+2026-09-03 23:35:31,041 - reports_logger - INFO - Generated report for client 'F0920' on 2026-08-31
+2026-09-03 23:35:31,131 - reports_logger - INFO - Generated report for client 'F0923' on 2026-08-31
+2026-09-03 23:35:31,134 - reports_logger - INFO - Generated report for client 'F0924' on 2026-08-31
+2026-09-03 23:35:34,235 - reports_logger - INFO - Generated report for client 'F0928' on 2026-08-31
+2026-09-03 23:35:34,241 - reports_logger - INFO - Generated report for client 'F0927' on 2026-08-31
+2026-09-03 23:35:34,242 - reports_logger - INFO - Generated report for client 'F0930' on 2026-08-31
+2026-09-03 23:35:34,242 - reports_logger - INFO - Generated report for client 'F0925' on 2026-08-31
+2026-09-03 23:35:34,244 - reports_logger - INFO - Generated report for client 'F0926' on 2026-08-31
+2026-09-03 23:35:34,247 - reports_logger - INFO - Generated report for client 'F0929' on 2026-08-31
+2026-09-03 23:35:34,319 - reports_logger - INFO - Generated report for client 'F0932' on 2026-08-31
+2026-09-03 23:35:34,322 - reports_logger - INFO - Generated report for client 'F0931' on 2026-08-31
+2026-09-03 23:35:37,463 - reports_logger - INFO - Generated report for client 'F0934' on 2026-08-31
+2026-09-03 23:35:37,464 - reports_logger - INFO - Generated report for client 'F0938' on 2026-08-31
+2026-09-03 23:35:37,464 - reports_logger - INFO - Generated report for client 'F0936' on 2026-08-31
+2026-09-03 23:35:37,469 - reports_logger - INFO - Generated report for client 'F0933' on 2026-08-31
+2026-09-03 23:35:37,473 - reports_logger - INFO - Generated report for client 'F0935' on 2026-08-31
+2026-09-03 23:35:37,476 - reports_logger - INFO - Generated report for client 'F0937' on 2026-08-31
+2026-09-03 23:35:37,550 - reports_logger - INFO - Generated report for client 'F0939' on 2026-08-31
+2026-09-03 23:35:37,552 - reports_logger - INFO - Generated report for client 'F0940' on 2026-08-31
+2026-09-03 23:35:40,691 - reports_logger - INFO - Generated report for client 'F0942' on 2026-08-31
+2026-09-03 23:35:40,698 - reports_logger - INFO - Generated report for client 'F0945' on 2026-08-31
+2026-09-03 23:35:40,702 - reports_logger - INFO - Generated report for client 'F0943' on 2026-08-31
+2026-09-03 23:35:40,706 - reports_logger - INFO - Generated report for client 'F0946' on 2026-08-31
+2026-09-03 23:35:40,707 - reports_logger - INFO - Generated report for client 'F0941' on 2026-08-31
+2026-09-03 23:35:40,711 - reports_logger - INFO - Generated report for client 'F0944' on 2026-08-31
+2026-09-03 23:35:40,840 - reports_logger - INFO - Generated report for client 'F0947' on 2026-08-31
+2026-09-03 23:35:40,845 - reports_logger - INFO - Generated report for client 'F0948' on 2026-08-31
+2026-09-03 23:35:43,965 - reports_logger - INFO - Generated report for client 'F0952' on 2026-08-31
+2026-09-03 23:35:43,972 - reports_logger - INFO - Generated report for client 'F0953' on 2026-08-31
+2026-09-03 23:35:43,976 - reports_logger - INFO - Generated report for client 'F0951' on 2026-08-31
+2026-09-03 23:35:43,977 - reports_logger - INFO - Generated report for client 'F0949' on 2026-08-31
+2026-09-03 23:35:43,977 - reports_logger - INFO - Generated report for client 'F0950' on 2026-08-31
+2026-09-03 23:35:43,982 - reports_logger - INFO - Generated report for client 'F0954' on 2026-08-31
+2026-09-03 23:35:44,078 - reports_logger - INFO - Generated report for client 'F0956' on 2026-08-31
+2026-09-03 23:35:44,083 - reports_logger - INFO - Generated report for client 'F0955' on 2026-08-31
+2026-09-03 23:35:47,191 - reports_logger - INFO - Generated report for client 'F0962' on 2026-08-31
+2026-09-03 23:35:47,193 - reports_logger - INFO - Generated report for client 'F0957' on 2026-08-31
+2026-09-03 23:35:47,193 - reports_logger - INFO - Generated report for client 'F0959' on 2026-08-31
+2026-09-03 23:35:47,195 - reports_logger - INFO - Generated report for client 'F0960' on 2026-08-31
+2026-09-03 23:35:47,196 - reports_logger - INFO - Generated report for client 'F0958' on 2026-08-31
+2026-09-03 23:35:47,199 - reports_logger - INFO - Generated report for client 'F0961' on 2026-08-31
+2026-09-03 23:35:47,285 - reports_logger - INFO - Generated report for client 'F0963' on 2026-08-31
+2026-09-03 23:35:47,288 - reports_logger - INFO - Generated report for client 'F0964' on 2026-08-31
+2026-09-03 23:35:50,469 - reports_logger - INFO - Generated report for client 'F0966' on 2026-08-31
+2026-09-03 23:35:50,470 - reports_logger - INFO - Generated report for client 'F0970' on 2026-08-31
+2026-09-03 23:35:50,472 - reports_logger - INFO - Generated report for client 'F0969' on 2026-08-31
+2026-09-03 23:35:50,472 - reports_logger - INFO - Generated report for client 'F0965' on 2026-08-31
+2026-09-03 23:35:50,470 - reports_logger - INFO - Generated report for client 'F0967' on 2026-08-31
+2026-09-03 23:35:50,475 - reports_logger - INFO - Generated report for client 'F0968' on 2026-08-31
+2026-09-03 23:35:50,571 - reports_logger - INFO - Generated report for client 'F0972' on 2026-08-31
+2026-09-03 23:35:50,573 - reports_logger - INFO - Generated report for client 'F0971' on 2026-08-31
+2026-09-03 23:35:53,676 - reports_logger - INFO - Generated report for client 'F0975' on 2026-08-31
+2026-09-03 23:35:53,680 - reports_logger - INFO - Generated report for client 'F0974' on 2026-08-31
+2026-09-03 23:35:53,680 - reports_logger - INFO - Generated report for client 'F0973' on 2026-08-31
+2026-09-03 23:35:53,681 - reports_logger - INFO - Generated report for client 'F0976' on 2026-08-31
+2026-09-03 23:35:53,681 - reports_logger - INFO - Generated report for client 'F0978' on 2026-08-31
+2026-09-03 23:35:53,687 - reports_logger - INFO - Generated report for client 'F0977' on 2026-08-31
+2026-09-03 23:35:53,760 - reports_logger - INFO - Generated report for client 'F0979' on 2026-08-31
+2026-09-03 23:35:53,766 - reports_logger - INFO - Generated report for client 'F0980' on 2026-08-31
+2026-09-03 23:35:56,841 - reports_logger - INFO - Generated report for client 'F0982' on 2026-08-31
+2026-09-03 23:35:56,900 - reports_logger - INFO - Generated report for client 'F0986' on 2026-08-31
+2026-09-03 23:35:56,904 - reports_logger - INFO - Generated report for client 'F0984' on 2026-08-31
+2026-09-03 23:35:56,935 - reports_logger - INFO - Generated report for client 'F0981' on 2026-08-31
+2026-09-03 23:35:56,939 - reports_logger - INFO - Generated report for client 'F0983' on 2026-08-31
+2026-09-03 23:35:56,991 - reports_logger - INFO - Generated report for client 'F0985' on 2026-08-31
+2026-09-03 23:35:57,149 - reports_logger - INFO - Generated report for client 'F0988' on 2026-08-31
+2026-09-03 23:35:57,153 - reports_logger - INFO - Generated report for client 'F0987' on 2026-08-31
