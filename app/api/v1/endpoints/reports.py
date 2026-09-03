@@ -54,7 +54,8 @@ def _generate_client_trade_confirmation(
             output_file=f"Trade_Confirmation_{client_code}.pdf",
         )
         logger.info(f"Generated report for client '{client_code}' on {trading_date}")
-        background_tasks.add_task(_send_mail_with_report_attachment, attachment_path, f"{client_code}@example.com")
+        # background_tasks.add_task(_send_mail_with_report_attachment, attachment_path, f"{client_code}@example.com")
+        _send_mail_with_report_attachment(attachment_path, f"{client_code}@example.com")
     except Exception as e:  # noqa: BLE001
         logger.error(f"Failed to generate report for client '{client_code}' on {trading_date}: {e}")
         raise HTTPException(
@@ -125,6 +126,7 @@ async def generate_all_clients_report(
         FROM tbl_trade_info
         WHERE trading_date = ?
         ORDER BY client_code
+        LIMIT 100
         """,
         [payload.trading_date],
     ).df()
