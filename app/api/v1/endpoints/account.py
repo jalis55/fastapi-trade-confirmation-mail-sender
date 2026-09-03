@@ -8,6 +8,10 @@ from duckdb import DuckDBPyConnection
 
 from app.api.deps import get_db
 from app.schemas.trade import OpeningBalanceResponse
+from app.services.logger_service import setup_logger
+
+
+logger = setup_logger("account_logger", "account.log")
 
 router = APIRouter(prefix="/api/v1/account", tags=["account"])
 
@@ -69,12 +73,13 @@ def get_opening_balance(
 
     if not result or result[0] is None:
         # If no trades on this date, return the opening balance
+        logger.warning(f"No trades found for client {client_code} on {trading_date}. Returning opening balance.")
         return OpeningBalanceResponse(
             client_code=client_code,
             opening_balance=float(client[0]),
             trading_date=trading_date,
         )
-
+    logger.info(f"Checking opening balance for client {client_code} on {trading_date}")
     return OpeningBalanceResponse(
         client_code=client_code,
         opening_balance=float(result[0]),

@@ -11,10 +11,10 @@ previews.
 """
 import os
 
-from fastapi import APIRouter, Depends, HTTPException, Query
+from fastapi import APIRouter, Depends, HTTPException, Query, BackgroundTasks
 from fastapi.responses import FileResponse
 from duckdb import DuckDBPyConnection
- 
+
 from app.api.deps import get_db
 from app.schemas.trade import (
     SingleClientTradeConfirmationRequest,
@@ -23,26 +23,64 @@ from app.schemas.trade import (
 from app.services.trade_summary_service import generate_client_trade_summary_json
 from app.services.pdf_service import generate_trade_confirmation
 from app.services.dir_service import set_report_output_dir, report_dir_for_date
+from app.services.logger_service import setup_logger
+import time
+
+
+logger = setup_logger('reports_logger', 'reports.log')
+mail_logger = setup_logger('mail_logger', 'mail.log')
+
 
 router = APIRouter(tags=["reports"])
+
+
+def _send_mail_with_report_attachment(file_path: str, recipient_email: str = 'test@example.com') -> None:
+    # Placeholder for future implementation of email sending functionality
+    time.sleep(3)
+    mail_logger.info(f"Simulated sending email with attachment '{file_path}' to '{recipient_email}'")
 
 
 def _generate_client_trade_confirmation(
     client_code: str,
     trading_date: str,
+    background_tasks: BackgroundTasks,
     conn: DuckDBPyConnection,
 ) -> None:
     """Shared logic: build summary JSON and write the PDF. Raises on failure."""
-    trade_summary = generate_client_trade_summary_json(client_code, trading_date, conn)
-    generate_trade_confirmation(
-        trade_summary,
-        output_file=f"Trade_Confirmation_{client_code}.pdf",
-    )
+    try:
+        trade_summary = generate_client_trade_summary_json(client_code, trading_date, conn)
+        attachment_path = generate_trade_confirmation(
+            trade_summary,
+            output_file=f"Trade_Confirmation_{client_code}.pdf",
+        )
+        logger.info(f"Generated report for client '{client_code}' on {trading_date}")
+        background_tasks.add_task(_send_mail_with_report_attachment, attachment_path, f"{client_code}@example.com")
+    except Exception as e:  # noqa: BLE001
+        logger.error(f"Failed to generate report for client '{client_code}' on {trading_date}: {e}")
+        raise HTTPException(
+            status_code=500,
+            detail={"msg": "report generation failed", "error": str(e)},
+        )
+
+
+def _generate_client_trade_confirmation_to_all(
+    client_codes: list[str],
+    trading_date: str,
+    background_tasks: BackgroundTasks,
+    conn: DuckDBPyConnection,
+) -> None:
+    for client_code in client_codes:
+        try:
+            _generate_client_trade_confirmation(client_code, trading_date, background_tasks, conn)
+        except HTTPException as e:
+            # Don't let one client's failure stop the rest of the batch.
+            logger.error(f"Skipping client '{client_code}' on {trading_date}: {e.detail}")
 
 
 @router.post("/trade-confirmation-report/single", status_code=201)
-def generate_single_client_report(
+async def generate_single_client_report(
     payload: SingleClientTradeConfirmationRequest,
+    background_tasks: BackgroundTasks,
     conn: DuckDBPyConnection = Depends(get_db),
 ):
     """
@@ -52,24 +90,26 @@ def generate_single_client_report(
 
     The PDF is written under ``<REPORT_OUTPUT_DIR>/<trading_date>/``.
     """
+
     set_report_output_dir(payload.trading_date)
-    try:
-        _generate_client_trade_confirmation(payload.client_code, payload.trading_date, conn)
-        return {
-            "msg": "report generated",
-            "status": "success",
-            "client_code": payload.client_code,
-        }
-    except Exception as e:  # noqa: BLE001
-        raise HTTPException(
-            status_code=500,
-            detail={"msg": "report generation failed", "error": str(e)},
-        )
+
+    background_tasks.add_task(
+        _generate_client_trade_confirmation,
+        payload.client_code,
+        payload.trading_date,
+        background_tasks,
+        conn,
+    )
+
+    return {
+        "msg": "report generation started",
+    }
 
 
 @router.post("/trade-confirmation-report/all", status_code=201)
-def generate_all_clients_report(
+async def generate_all_clients_report(
     payload: TradeConfirmationRequest,
+    background_tasks: BackgroundTasks,
     conn: DuckDBPyConnection = Depends(get_db),
 ):
     """
@@ -99,71 +139,14 @@ def generate_all_clients_report(
 
     set_report_output_dir(payload.trading_date)
 
-    success_count = 0
-    failed_count = 0
-    errors = []
-
-    for _, row in client_codes_df.iterrows():
-        client_code = row["client_code"]
-        try:
-            _generate_client_trade_confirmation(client_code, payload.trading_date, conn)
-            success_count += 1
-        except Exception as e:  # noqa: BLE001
-            failed_count += 1
-            errors.append({"client_code": client_code, "error": str(e)})
+    background_tasks.add_task(
+        _generate_client_trade_confirmation_to_all,
+        client_codes_df["client_code"].tolist(),
+        payload.trading_date,
+        background_tasks,
+        conn,
+    )
 
     return {
-        "msg": "report generation completed",
-        "total": success_count + failed_count,
-        "success": success_count,
-        "failed": failed_count,
-        "errors": errors,  # empty list if all succeeded
+        "msg": f"report generation started for {len(client_codes_df)} clients",
     }
-
-
-@router.get("/reports")
-def list_generated_reports(
-    trading_date: str = Query(..., description="Date in YYYY-MM-DD format"),
-):
-    """
-    List the PDF reports already generated for ``trading_date``.
-
-    Read-only: does not generate any reports or create any folders.
-    """
-    report_dir = report_dir_for_date(trading_date)
-
-    if not os.path.isdir(report_dir):
-        return {"trading_date": trading_date, "reports": []}
-
-    reports = [
-        name
-        for name in sorted(os.listdir(report_dir))
-        if name.lower().endswith(".pdf")
-    ]
-    return {"trading_date": trading_date, "reports": reports}
-
-
-@router.get("/reports/download")
-def download_generated_report(
-    trading_date: str = Query(..., description="Date in YYYY-MM-DD format"),
-    client_code: str = Query(..., description="Client code (e.g., F0001)"),
-):
-    """
-    Download an already-generated report for a client on a trading date.
-
-    Read-only: returns the existing PDF file if present.
-    """
-    report_dir = report_dir_for_date(trading_date)
-    report_path = os.path.join(report_dir, f"Trade_Confirmation_{client_code}.pdf")
-
-    if not os.path.isfile(report_path):
-        raise HTTPException(
-            status_code=404,
-            detail=f"No report found for client '{client_code}' on {trading_date}",
-        )
-
-    return FileResponse(
-        report_path,
-        media_type="application/pdf",
-        filename=f"Trade_Confirmation_{client_code}.pdf",
-    )
