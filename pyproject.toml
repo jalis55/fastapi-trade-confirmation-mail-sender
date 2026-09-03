@@ -1,0 +1,16 @@
+[project]
+name = "terade-conf"
+version = "0.1.0"
+description = "Trade Confirmation Report Generation API (FastAPI + DuckDB + ReportLab)"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "duckdb>=1.5.5",
+    "fastapi>=0.141.1",
+    "pandas>=3.0.5",
+    "reportlab>=5.0.1",
+    "uvicorn[standard]>=0.52.4",
+]
+
+[dependency-groups]
+dev = []
